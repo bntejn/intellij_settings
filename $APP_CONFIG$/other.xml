@@ -5,18 +5,21 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
         <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Python34\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
         <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Python34\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
         <entry key="C:\Python27\python.exe" value="false" />
         <entry key="C:\Python34\python.exe" value="false" />
       </map>

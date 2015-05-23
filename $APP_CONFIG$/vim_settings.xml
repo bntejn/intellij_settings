@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432399561614">
+        <mark key="]" line="40" column="12" />
+        <mark key="^" line="40" column="12" />
+        <mark key="." line="40" column="12" />
+        <mark key="[" line="40" column="12" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
@@ -12,8 +18,41 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50Tm9kZS5sZWZ0KCkgPiBub2RlLgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>bstNode</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX3B1dChzZWxmLCBjdXJyZW50Tm9kZSwgbm9kZSk6Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>bstNode</text>
+      </register>
+      <register name="7" type="4">
+        <text>self</text>
+      </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">a2V5IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PiA=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
+      </register>
+      <register name="9" type="4">
+        <text>_</text>
+      </register>
+      <register name="8" type="4">
+        <text>_</text>
+      </register>
+      <register name="-" type="4">
+        <text>bstNode</text>
       </register>
     </registers>
     <search>
@@ -24,6 +63,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
