@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432463437936">
-        <mark key="'" line="52" column="0" />
-        <mark key="]" line="55" column="35" />
-        <mark key="^" line="55" column="35" />
-        <mark key="." line="55" column="35" />
-        <mark key="[" line="55" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432466625671">
+        <mark key="'" line="75" column="0" />
+        <mark key="]" line="62" column="15" />
+        <mark key="^" line="62" column="16" />
+        <mark key="." line="62" column="15" />
+        <mark key="[" line="62" column="16" />
       </file>
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
@@ -31,37 +31,37 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHIrICJ6IikK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9fbGVmdCAhPSBOb25lOgogICAgICAgICAgICBzdHIgKz0gc2VsZi5fX2xlZnQuX19zdHJfXygpICsgIiAiCiAgICAgICAgc3RyICs9IHNlbGYua2V5Ll9fc3RyX18oKSArICIgIgogICAgICAgIGlmIHNlbGYuX19yaWdodCAhPSBOb25lOgogICAgICAgICAgICBzdHIgKz0gc2VsZi5fX3JpZ2h0Ll9fc3RyX18oKSArICIgIgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>print</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdHIgPSAiICIKICAgICAgICByZXR1cm4gc3RyCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnN0Lmluc2VydChCc3ROb2RlKDcpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9fbGVmdCAhPSBOb25lOgogICAgICAgICAgICBsc3QuYXBwZW5kKHNlbGYuX19sZWZ0LnByZW9yZGVyKCkpCiAgICAgICAgaWYgc2VsZi5fX3JpZ2h0ICE9IE5vbmU6CiAgICAgICAgICAgIGxzdC5hcHBlbmQoc2VsZi5fX3JpZ2h0LnByZW9yZGVyKCkpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>inorder</text>
       </register>
-      <register name="6" type="4">
-        <text>print</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsc3QuYXBwZW5kKCkK</text>
       </register>
       <register name="5" type="4">
-        <text>print</text>
+        <text>preorder</text>
       </register>
       <register name="4" type="4">
-        <text>print</text>
+        <text>preorder</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>str</text>
+        <text>left</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>inorder</text>
       </register>
     </registers>
     <search>
@@ -73,6 +73,7 @@
       <history-cmd>
         <entry>1</entry>
         <entry>10</entry>
+        <entry>60</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
