@@ -3,12 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432466625671">
-        <mark key="'" line="75" column="0" />
-        <mark key="]" line="62" column="15" />
-        <mark key="^" line="62" column="16" />
-        <mark key="." line="62" column="15" />
-        <mark key="[" line="62" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432468783492">
+        <mark key="'" line="47" column="21" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="[" line="76" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1432468778866">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
@@ -22,58 +24,68 @@
     </filemarks>
     <jumps>
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="47" column="21" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9fcm9vdC5pbm9yZGVyKCkpCg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>append</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>extend</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9fbGVmdCAhPSBOb25lOgogICAgICAgICAgICBzdHIgKz0gc2VsZi5fX2xlZnQuX19zdHJfXygpICsgIiAiCiAgICAgICAgc3RyICs9IHNlbGYua2V5Ll9fc3RyX18oKSArICIgIgogICAgICAgIGlmIHNlbGYuX19yaWdodCAhPSBOb25lOgogICAgICAgICAgICBzdHIgKz0gc2VsZi5fX3JpZ2h0Ll9fc3RyX18oKSArICIgIgo=</text>
+      <register name="3" type="4">
+        <text>extend</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIgPSAiICIKICAgICAgICByZXR1cm4gc3RyCg==</text>
+      <register name="2" type="4">
+        <text>extend</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9fcm9vdC5pbm9yZGVyKCkpCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9fbGVmdCAhPSBOb25lOgogICAgICAgICAgICBsc3QuYXBwZW5kKHNlbGYuX19sZWZ0LnByZW9yZGVyKCkpCiAgICAgICAgaWYgc2VsZi5fX3JpZ2h0ICE9IE5vbmU6CiAgICAgICAgICAgIGxzdC5hcHBlbmQoc2VsZi5fX3JpZ2h0LnByZW9yZGVyKCkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>inorder</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbHN0LmFwZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsc3QuYXBwZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHN0LmV4dGVuZCgpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>preorder</text>
+        <text>append</text>
       </register>
       <register name="4" type="4">
-        <text>preorder</text>
+        <text>extend</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>left</text>
+        <text>a</text>
       </register>
-      <register name="8" type="4">
-        <text>inorder</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbHN0LmFwcAo=</text>
       </register>
     </registers>
     <search>
+      <last-pattern>append</last-pattern>
+      <last-replace>extend</last-replace>
+      <last-substitute>append</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>append</entry>
+      </history-search>
       <history-cmd>
         <entry>1</entry>
         <entry>10</entry>
         <entry>60</entry>
+        <entry>%s/append/extend/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
