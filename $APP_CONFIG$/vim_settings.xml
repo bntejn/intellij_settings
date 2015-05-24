@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432478392218">
-        <mark key="'" line="69" column="15" />
-        <mark key="]" line="126" column="21" />
-        <mark key="^" line="126" column="21" />
-        <mark key="." line="126" column="21" />
-        <mark key="[" line="125" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432480626433">
+        <mark key="'" line="53" column="6" />
+        <mark key="]" line="139" column="24" />
+        <mark key="^" line="139" column="23" />
+        <mark key="." line="139" column="24" />
+        <mark key="[" line="139" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1432468778866">
         <mark key="[" line="0" column="0" />
@@ -30,58 +30,60 @@
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="0" column="18" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="68" column="15" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="37" column="3" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="53" column="6" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YnN0LnByaW50KCkK</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxXD4=</text>
+        <text>raise</text>
       </register>
       <register name="-" type="4">
-        <text>postorder</text>
+        <text>w</text>
       </register>
       <register name="3" type="4">
-        <text>preorder</text>
+        <text encoding="base64">QW4g</text>
       </register>
       <register name="2" type="4">
-        <text>postorder</text>
+        <text encoding="base64">RXhlcHRpb24g</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YnN0LnByaW50KCkK</text>
+      <register name="1" type="4">
+        <text>w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBwcmludF9wb3N0b3JkZXIoc2VsZik6CiAgICAgICAgZm9yIG5vZGUgaW4gc2VsZi5fX3Jvb3QucG9zdG9yZGVyKCk6CiAgICAgICAgICAgIHN5cy5zdGRvdXQud3JpdGUobm9kZS5fX3N0cl9fKCkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>preorder</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>traversal</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text encoding="base64">dmlzaXQg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxXD4=</last-search>
+      <last-search>raise</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxXD4=</last-pattern>
+      <last-pattern>raise</last-pattern>
       <last-replace>extend</last-replace>
       <last-substitute>append</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -90,6 +92,7 @@
         <entry>import</entry>
         <entry>Queue</entry>
         <entry encoding="base64">XDxxXD4=</entry>
+        <entry>raise</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
