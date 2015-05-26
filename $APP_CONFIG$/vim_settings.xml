@@ -13,6 +13,7 @@
       <file name="/a.dummy" timestamp="1432468778866">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/testgen/ApiCall.java" timestamp="1432627944747" />
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,18 +88,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>append</entry>
-        <entry>import</entry>
-        <entry>Queue</entry>
-        <entry encoding="base64">XDxxXD4=</entry>
-        <entry>raise</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>10</entry>
-        <entry>60</entry>
-        <entry>%s/append/extend/gc</entry>
-        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
