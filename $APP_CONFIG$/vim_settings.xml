@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432709197792">
-        <mark key="'" line="53" column="6" />
-        <mark key="]" line="130" column="1" />
-        <mark key="^" line="130" column="1" />
-        <mark key="." line="130" column="1" />
-        <mark key="[" line="129" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432711848688">
+        <mark key="'" line="3" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1432468778866">
         <mark key="[" line="0" column="0" />
@@ -26,31 +26,31 @@
     <jumps>
       <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="47" column="21" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
-      <jump line="66" column="15" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="0" column="18" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="68" column="15" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="37" column="3" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="53" column="6" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="66" column="20" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
       </register>
       <register name="/" type="4">
-        <text>raise</text>
+        <text>!=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>t</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QW4g</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">RXhlcHRpb24g</text>
+        <text>t</text>
       </register>
-      <register name="1" type="4">
-        <text>w</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBwcmludF9wb3N0b3JkZXIoc2VsZik6CiAgICAgICAgZm9yIG5vZGUgaW4gc2VsZi5fX3Jvb3QucG9zdG9yZGVyKCk6CiAgICAgICAgICAgIHN5cy5zdGRvdXQud3JpdGUobm9kZS5fX3N0cl9fKCkpCg==</text>
@@ -62,27 +62,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIHRoZSByb290IG5vZGUK</text>
       </register>
-      <register name="4" type="4">
-        <text>B</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>!</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dmlzaXQg</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
-      <last-search>raise</last-search>
+      <last-search>!=</last-search>
       <last-offset />
-      <last-pattern>raise</last-pattern>
-      <last-replace>extend</last-replace>
-      <last-substitute>append</last-substitute>
+      <last-pattern>!=</last-pattern>
+      <last-replace>is not None</last-replace>
+      <last-substitute>\!\= None</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -93,11 +93,16 @@
         <entry>Queue</entry>
         <entry encoding="base64">XDxxXD4=</entry>
         <entry>raise</entry>
+        <entry>~= None</entry>
+        <entry>\!\= None</entry>
+        <entry>!=</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
         <entry>60</entry>
         <entry>%s/append/extend/gc</entry>
+        <entry>%s/~= None/is not None</entry>
+        <entry>%s/\!\= None/is not None</entry>
         <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
