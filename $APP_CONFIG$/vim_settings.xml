@@ -3,9 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432794553578">
-        <mark key="'" line="237" column="7" />
-        <mark key="[" line="22" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432822804732">
+        <mark key="'" line="238" column="7" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="[" line="22" column="9" />
       </file>
       <file name="/a.dummy" timestamp="1432714443246">
         <mark key="[" line="0" column="0" />
