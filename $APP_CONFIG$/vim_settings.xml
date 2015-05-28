@@ -3,12 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432794458142">
-        <mark key="'" line="230" column="7" />
-        <mark key="]" line="176" column="12" />
-        <mark key="^" line="176" column="12" />
-        <mark key="." line="176" column="12" />
-        <mark key="[" line="175" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432794553578">
+        <mark key="'" line="237" column="7" />
+        <mark key="[" line="22" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1432714443246">
         <mark key="[" line="0" column="0" />
@@ -38,46 +35,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>__str</text>
       </register>
       <register name="-" type="4">
+        <text>a</text>
+      </register>
+      <register name="3" type="4">
         <text>#</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJpZ2h0LnBhcmVudCA9IHNlbGYucGFyZW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgI1RPRE8K</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
       <register name="1" type="4">
-        <text>#</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnJlbW92ZUxpbmtUb0NoaWxkKHNlbGYpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bXkg</text>
-      </register>
-      <register name="6" type="4">
-        <text>l</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxlZnQucGFyZW50ID0gc2VsZi5wYXJlbnQK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5yZW1vdmVMaW5rVG9DaGlsZChzZWxmKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJpZ2h0LnBhcmVudCA9IHNlbGYucGFyZW50Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgI1RPRE8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">bXkg</text>
       </register>
       <register name="8" type="4">
-        <text>+</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
