@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432714883866">
-        <mark key="'" line="157" column="7" />
-        <mark key="]" line="146" column="11" />
-        <mark key="^" line="146" column="13" />
-        <mark key="." line="146" column="11" />
-        <mark key="[" line="146" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432792829186">
+        <mark key="'" line="181" column="7" />
+        <mark key="]" line="130" column="37" />
+        <mark key="^" line="130" column="37" />
+        <mark key="." line="130" column="37" />
+        <mark key="[" line="131" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1432714443246">
         <mark key="[" line="0" column="0" />
@@ -37,47 +37,47 @@
       <jump line="156" column="7" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>__str</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>key</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZWxldGUgc2VsZgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>\</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZW1vdmUgc2VsZgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>n</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmludF9wb3N0b3JkZXIoc2VsZik6CiAgICAgICAgZm9yIG5vZGUgaW4gc2VsZi5fX3Jvb3QucG9zdG9yZGVyKCk6CiAgICAgICAgICAgIHN5cy5zdGRvdXQud3JpdGUobm9kZS5fX3N0cl9fKCkpCg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgUmVtb3ZlIGEgbm9kZSBmcm9tIHRoZSB0cmVlLgogICAgQWxnb3JpdGhtOgogICAgICBmaW5kIGEgbWluaW11bSB2YWx1ZSBpbiB0aGUgcmlnaHQgc3VidHJlZTsKICAgICAgcmVwbGFjZSB2YWx1ZSBvZiB0aGUgbm9kZSB0byBiZSByZW1vdmVkIHdpdGggZm91bmQgbWluaW11bS4KICAgICAgTm93LCByaWdodCBzdWJ0cmVlIGNvbnRhaW5zIGEgZHVwbGljYXRlIQogICAgICBhcHBseSByZW1vdmUgdG8gdGhlIHJpZ2h0IHN1YnRyZWUgdG8gcmVtb3ZlIGEgZHVwbGljYXRlLgogICAgOnBhcmFtIGtleTogVGhlIGtleSBvZiBhIG5vZGUgdG8gc2VhcmNoIGZvci4KICAgIDpyZXR1cm46CiAgICAiIiIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QnN0Tm9kZSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi5wYXJlbnQuCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJpbnRub2RlLl9fc3RyX18oKQo=</text>
+      <register name="6" type="4">
+        <text>parent</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>key</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgUmVtb3ZlIGEgbm9kZSBmcm9tIHRoZSB0cmVlLgogICAgQWxnb3JpdGhtOgogICAgICBmaW5kIGEgbWluaW11bSB2YWx1ZSBpbiB0aGUgcmlnaHQgc3VidHJlZTsKICAgICAgcmVwbGFjZSB2YWx1ZSBvZiB0aGUgbm9kZSB0byBiZSByZW1vdmVkIHdpdGggZm91bmQgbWluaW11bS4KICAgICAgTm93LCByaWdodCBzdWJ0cmVlIGNvbnRhaW5zIGEgZHVwbGljYXRlIQogICAgICBhcHBseSByZW1vdmUgdG8gdGhlIHJpZ2h0IHN1YnRyZWUgdG8gcmVtb3ZlIGEgZHVwbGljYXRlLgogICAgOnBhcmFtIGtleTogVGhlIGtleSBvZiBhIG5vZGUgdG8gc2VhcmNoIGZvci4KICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm9kZS5fXwo=</text>
+        <text encoding="base64">ICAgICIiIgogICAgUmVtb3ZlIGEgbm9kZSBmcm9tIHRoZSB0cmVlLgogICAgQWxnb3JpdGhtOgogICAgICBmaW5kIGEgbWluaW11bSB2YWx1ZSBpbiB0aGUgcmlnaHQgc3VidHJlZTsKICAgICAgcmVwbGFjZSB2YWx1ZSBvZiB0aGUgbm9kZSB0byBiZSByZW1vdmVkIHdpdGggZm91bmQgbWluaW11bS4KICAgICAgTm93LCByaWdodCBzdWJ0cmVlIGNvbnRhaW5zIGEgZHVwbGljYXRlIQogICAgICBhcHBseSByZW1vdmUgdG8gdGhlIHJpZ2h0IHN1YnRyZWUgdG8gcmVtb3ZlIGEgZHVwbGljYXRlLgogICAgOnBhcmFtIGtleTogVGhlIGtleSBvZiBhIG5vZGUgdG8gc2VhcmNoIGZvci4KICAgIDpyZXR1cm46CiAgICAiIiIK</text>
       </register>
     </registers>
     <search>
@@ -110,11 +110,11 @@
         <entry>%s/append/extend/gc</entry>
         <entry>%s/~= None/is not None</entry>
         <entry>%s/\!\= None/is not None</entry>
-        <entry>1</entry>
         <entry>%s/__left/left</entry>
         <entry>%s/__right/right</entry>
         <entry>/__str</entry>
         <entry>999</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
