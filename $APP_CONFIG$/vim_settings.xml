@@ -3,15 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432822804732">
-        <mark key="'" line="238" column="7" />
-        <mark key="]" line="23" column="24" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="[" line="22" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
+        <mark key="[" line="12" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1432714443246">
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432881440581">
+        <mark key="'" line="278" column="0" />
+        <mark key="]" line="84" column="11" />
+        <mark key="^" line="84" column="11" />
+        <mark key="." line="84" column="11" />
+        <mark key="[" line="84" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1432881358522">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1432881627946">
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="[" line="25" column="26" />
       </file>
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
@@ -35,58 +44,60 @@
       <jump line="13" column="4" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="103" column="8" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="156" column="7" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="150" column="4" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>four</text>
       </register>
       <register name="/" type="4">
-        <text>__str</text>
+        <text>bst</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>four</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>three</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>4</text>
       </register>
       <register name="1" type="4">
-        <text>a</text>
+        <text>four</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlbW92ZUxpbmtUb0NoaWxkKHNlbGYpCg==</text>
+        <text encoding="base64">ICAgIHJvb3QucHV0KEJzdE5vZGUoNCwgImZvdXIiKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlZnQucGFyZW50ID0gc2VsZi5wYXJlbnQK</text>
+      <register name="7" type="4">
+        <text>one</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5yZW1vdmVMaW5rVG9DaGlsZChzZWxmKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG4yLnByZW9yZGVyKCkudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJpZ2h0LnBhcmVudCA9IHNlbGYucGFyZW50Cg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgI1RPRE8K</text>
+      <register name="4" type="4">
+        <text>3</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bXkg</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>n2</text>
       </register>
     </registers>
     <search>
-      <last-search>__str</last-search>
+      <last-search encoding="base64">XDxlbGlmXD4=</last-search>
       <last-offset />
-      <last-pattern>__str</last-pattern>
-      <last-replace>right</last-replace>
-      <last-substitute>__right</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>bst</last-pattern>
+      <last-replace encoding="base64">ICBic3Q=</last-replace>
+      <last-substitute>bst</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -103,6 +114,8 @@
         <entry>__right</entry>
         <entry encoding="base64">XDxjdXJOb2RlXD4=</entry>
         <entry>__str</entry>
+        <entry encoding="base64">XDxlbGlmXD4=</entry>
+        <entry>bst</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
@@ -115,6 +128,7 @@
         <entry>/__str</entry>
         <entry>999</entry>
         <entry>1</entry>
+        <entry>%s/bst/  bst/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
