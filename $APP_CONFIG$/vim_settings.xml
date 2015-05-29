@@ -13,14 +13,17 @@
         <mark key="." line="84" column="11" />
         <mark key="[" line="84" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1432884701010">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1432881358522">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1432881627946">
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="31" />
-        <mark key="[" line="25" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1432884668011">
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="[" line="27" column="22" />
       </file>
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
@@ -49,46 +52,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>four</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>bst</text>
       </register>
       <register name="-" type="4">
-        <text>four</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>three</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text>4</text>
+        <text>3</text>
       </register>
       <register name="1" type="4">
-        <text>four</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJvb3QucHV0KEJzdE5vZGUoNCwgImZvdXIiKSkK</text>
+        <text encoding="base64">ICAgIHJvb3QucHV0KEJzdE5vZGUoMTEsICJ0d2VsdmUiKSkK</text>
       </register>
       <register name="7" type="4">
-        <text>one</text>
+        <text>2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KG4yLnByZW9yZGVyKCkudCkK</text>
+      <register name="6" type="4">
+        <text>1</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+      <register name="5" type="4">
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>n2</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
