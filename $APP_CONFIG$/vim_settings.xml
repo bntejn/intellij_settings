@@ -13,7 +13,12 @@
         <mark key="." line="289" column="0" />
         <mark key="[" line="288" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1432884709743">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" timestamp="1432885759477">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1432885428006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1432884668011">
@@ -22,8 +27,20 @@
         <mark key="." line="27" column="22" />
         <mark key="[" line="27" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1432885950813">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="[" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="]" line="2" column="9" />
@@ -49,46 +66,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>bst</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
-      <register name="3" type="4">
-        <text>2</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBpc2luc3RhbmNlKGYsICkKICAgIGYuCg==</text>
       </register>
       <register name="2" type="4">
-        <text>3</text>
+        <text>_</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJvb3QucHV0KEJzdE5vZGUoMTEsICJ0d2VsdmUiKSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>2</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgX19vcGVuRmlsZShzZWxmLCBmbmFtZSk6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmID0gb3BlbigpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>2</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGYuCg==</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>object</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>ilename</text>
       </register>
     </registers>
     <search>
