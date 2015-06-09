@@ -32,11 +32,11 @@
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433838691901">
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
-        <mark key="[" line="25" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433847777239">
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+        <mark key="[" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
@@ -72,23 +72,23 @@
       <jump line="29" column="23" filename="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
+      <register name="&quot;" type="4">
+        <text>to</text>
       </register>
       <register name="/" type="4">
         <text>bst</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>to</text>
       </register>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZWFyY2hCeURhdGUK</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>from</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
+      <register name="1" type="4">
+        <text>to</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBzZWFyY2ggdGhlIHNlbmRlciBvZiB0aGlzIG1lc3NhZ2UgdXNpbmcgcmVnZXggcGF0dGVybgo=</text>
@@ -102,8 +102,8 @@
       <register name="5" type="4">
         <text>l</text>
       </register>
-      <register name="4" type="4">
-        <text>v</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
