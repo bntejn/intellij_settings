@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/chat.txt" timestamp="1433833975545">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432884903925">
         <mark key="'" line="278" column="0" />
         <mark key="]" line="289" column="0" />
@@ -38,17 +32,20 @@
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433835824106">
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="55" />
-        <mark key="[" line="14" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433836857979">
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="[" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="[" line="2" column="26" />
+      </file>
+      <file name="/" timestamp="1433836638748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="]" line="2" column="9" />
@@ -76,46 +73,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJbml0aWFsaXplCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
       </register>
       <register name="/" type="4">
         <text>bst</text>
       </register>
       <register name="-" type="4">
-        <text>msg</text>
+        <text>l</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tc2dMaXN0LmFwcGVuZChzZWxmLl9fcGFyc2VMaW5lKGxpbmUpKQo=</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbml0aWFsaXplCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBzZWFyY2ggdGhlIHNlbmRlciBvZiB0aGlzIG1lc3NhZ2UgdXNpbmcgcmVnZXggcGF0dGVybgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGkgPSBbMSwgMl0K</text>
+      <register name="7" type="4">
+        <text>v</text>
       </register>
       <register name="6" type="4">
-        <text>msg</text>
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gc2VsZi5fX3BhcnNlTGluZShsaW5lKQo=</text>
+      <register name="5" type="4">
+        <text>l</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYXJzZShzZWxmKToK</text>
+      <register name="4" type="4">
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>h</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
@@ -161,7 +158,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
