@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MResource.java" timestamp="1433919597088">
+        <mark key="'" line="68" column="31" />
+        <mark key="]" line="67" column="40" />
+        <mark key="^" line="67" column="40" />
+        <mark key="." line="67" column="40" />
+        <mark key="[" line="67" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/CmInPairsNotInBetween.java" timestamp="1433912691915">
         <mark key="'" line="82" column="30" />
         <mark key="]" line="101" column="77" />
@@ -10,12 +17,12 @@
         <mark key="." line="101" column="77" />
         <mark key="[" line="101" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/SmvStringLiteral.java" timestamp="1433915199645">
-        <mark key="'" line="80" column="0" />
-        <mark key="]" line="117" column="46" />
-        <mark key="^" line="117" column="46" />
-        <mark key="." line="117" column="46" />
-        <mark key="[" line="117" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/SmvStringLiteral.java" timestamp="1433919548558">
+        <mark key="'" line="26" column="48" />
+        <mark key="]" line="135" column="36" />
+        <mark key="^" line="135" column="36" />
+        <mark key="." line="135" column="36" />
+        <mark key="[" line="135" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" timestamp="1433909751587">
         <mark key="'" line="71" column="9" />
@@ -29,10 +36,10 @@
         <mark key="." line="137" column="38" />
         <mark key="[" line="137" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1433914833983">
+      <file name="/a.dummy" timestamp="1433919104462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/CmMustEndWith.java" timestamp="1433913903409">
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/CmMustEndWith.java" timestamp="1433919127416">
         <mark key="]" line="79" column="76" />
         <mark key="^" line="79" column="76" />
         <mark key="." line="79" column="76" />
@@ -55,13 +62,13 @@
         <mark key="." line="40" column="0" />
         <mark key="[" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEvent.java" timestamp="1433918361725">
-        <mark key="]" line="171" column="57" />
-        <mark key="^" line="171" column="57" />
-        <mark key="." line="171" column="57" />
-        <mark key="[" line="171" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEvent.java" timestamp="1433919044269">
+        <mark key="]" line="133" column="39" />
+        <mark key="^" line="133" column="39" />
+        <mark key="." line="133" column="39" />
+        <mark key="[" line="133" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEnvironment.java" timestamp="1433914826092">
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEnvironment.java" timestamp="1433919125464">
         <mark key="'" line="83" column="26" />
         <mark key="]" line="17" column="13" />
         <mark key="^" line="17" column="13" />
@@ -116,58 +123,61 @@
       <jump line="120" column="22" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEvent.java" />
       <jump line="121" column="34" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEvent.java" />
       <jump line="118" column="16" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEvent.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/SmvStringLiteral.java" />
+      <jump line="26" column="48" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/SmvStringLiteral.java" />
+      <jump line="70" column="31" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text encoding="base64">UkVMRUFTRUQg</text>
       </register>
       <register name="/" type="4">
-        <text>eq(_API, _SE)</text>
+        <text encoding="base64">XDxuVGFza3NcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">UkVMRUFTRUQg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV4dEFzc2lnbihfRVJST1IsIGNhc2VFeHByKAogICAgICAgICAgZWFjaENhc2UoYW5kKG5vdChfRVJST1IpLCBkb3QoX0VOViwgX05TRSksCiAgICAgICAgICAgICAgZGlzakZvckVhY2hUYXNrU3RhdGUoKSksIF9UUlVFKSwKICAgICAgICAgIGVhY2hDYXNlKGFuZChub3QoX0VSUk9SKSwgZG90KF9FTlYsIF9OU0UpLAogICAgICAgICAgICAgIGRpc2pGb3JFYWNoVGFza01vZGUoX0VOViArICIuIiArIF9QX1QpKSwgX1RSVUUpLAogICAgICAgICAgZWFjaENhc2UoYW5kKG5vdChfRVJST1IpLCByb3VuZChvcihkb3QoX0VOViwgX05XRSksCiAgICAgICAgICAgICAgZG90KF9FTlYsIF9OQ0UpKSksIGRpc2pGb3JFYWNoVGFza01vZGUoX1JUSUQpKSwgX1RSVUUpLAogICAgICAgICAgZWFjaENhc2UoYW5kKG5vdChfRVJST1IpLCBuZXEobmV4dChfUlRJRCksIF8wKSwgZG90KF9FTlYsIF9OV0UpKSwKICAgICAgICAgICAgICBjYXNlRXhwcihlYWNoRXJyb3JDYXNlcygpKSksCiAgICAgICAgICBlYWNoQ2FzZSgK</text>
+      <register name="3" type="4">
+        <text>released</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmQobm90KF9FUlJPUiksIG5lcShuZXh0KF9SVElEKSwgXzApLAogICAgICAgICAgICAgICAgICBlcShuZXh0KF9BUEkpLCBfU0UpLCBlYWNoTm9uRGlzanVuY3Rpb24oKSksCiAgICAgICAgICAgICAgTF9OT04pLAo=</text>
+      <register name="2" type="4">
+        <text>L</text>
       </register>
       <register name="1" type="4">
-        <text>`</text>
+        <text encoding="base64">UkVMRUFTRUQg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIFN0cmluZyBfU0VUID0gInNldCI7Cg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIFN0cmluZyBfQ0VJTF9QUklPID0gImNlaWxfcHJpbyI7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>L_NON</text>
+        <text encoding="base64">Q0VJTF9QUklPIA==</text>
       </register>
       <register name="6" type="4">
-        <text>L_ERR</text>
+        <text>ceil_prio</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyKF9FUlJPUiwgYm9vbCgpKTsK</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIFN0cmluZyBMX0hFTEQgPSAiaGVsZCI7CiAgcHJvdGVjdGVkIHN0YXRpYyBmaW5hbCBTdHJpbmcgTF9SRUxFQVNFRCA9ICJyZWxlYXNlZCI7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXF1YWxzTGlzdC5hZGQoZXEoX0VSUk9SLCBfRkFMU0UpKTsK</text>
+      <register name="4" type="4">
+        <text>held</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>L_PARAM_E</text>
+        <text>L</text>
       </register>
     </registers>
     <search>
-      <last-search>L_API</last-search>
+      <last-search encoding="base64">XDxuVGFza3NcPg==</last-search>
       <last-offset />
-      <last-pattern>eq(_API, _SE)</last-pattern>
+      <last-pattern encoding="base64">XDxuVGFza3NcPg==</last-pattern>
       <last-replace>dot(_ENV, _NSE)</last-replace>
       <last-substitute>eq(_API, _SE)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -179,11 +189,13 @@
         <entry>eq(_ERROR, L_NON)</entry>
         <entry>L_ALPHABET</entry>
         <entry>eq(_API, _SE)</entry>
+        <entry>L_RT</entry>
+        <entry>held</entry>
+        <entry encoding="base64">XDxuVGFza3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ㅂ</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>1</entry>
         <entry>%s/L_ALPHABET/dot(_ENV, _API)/gc</entry>
         <entry>%s/\&quot;0\&quot;/_0</entry>
         <entry>%s/L_ALPHABET/dot(_ENV, _API)</entry>
@@ -191,6 +203,7 @@
         <entry>%s/eq(_ERROR, L_NON)/not(_ERROR)</entry>
         <entry>%s/L_ALPHABET/_API</entry>
         <entry>%s/eq(_API, _SE)/dot(_ENV, _NSE)</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
