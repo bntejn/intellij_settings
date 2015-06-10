@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" timestamp="1433909751587">
+        <mark key="'" line="71" column="9" />
+        <mark key="]" line="79" column="9" />
+        <mark key="." line="79" column="9" />
+        <mark key="[" line="79" column="9" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1432624244189">
         <mark key="'" line="53" column="6" />
         <mark key="]" line="130" column="1" />
@@ -10,17 +16,31 @@
         <mark key="." line="130" column="1" />
         <mark key="[" line="129" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1432468778866">
+      <file name="/Dummy.txt" timestamp="1433909939570">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1433909939599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/gui/MainFrame.java" timestamp="1433909478442">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/OSTG/test/sselab/nusek/commons/SuiteInfoTest.java" timestamp="1433909796002">
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="0" />
+        <mark key="[" line="40" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -32,63 +52,72 @@
       <jump line="68" column="15" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="37" column="3" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="53" column="6" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="79" column="9" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" />
+      <jump line="24" column="10" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" />
+      <jump line="28" column="10" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" />
+      <jump line="30" column="10" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" />
+      <jump line="71" column="9" filename="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>raise</text>
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>s</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QW4g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgZmFpbCgpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">RXhlcHRpb24g</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>w</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBwcmludF9wb3N0b3JkZXIoc2VsZik6CiAgICAgICAgZm9yIG5vZGUgaW4gc2VsZi5fX3Jvb3QucG9zdG9yZGVyKCk6CiAgICAgICAgICAgIHN5cy5zdGRvdXQud3JpdGUobm9kZS5fX3N0cl9fKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmFpbCgpOwogICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="4" type="4">
-        <text>B</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dmlzaXQg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>raise</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>raise</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>extend</last-replace>
       <last-substitute>append</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>static</entry>
+      </history-search>
       <history-cmd>
+        <entry>ㅂ</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

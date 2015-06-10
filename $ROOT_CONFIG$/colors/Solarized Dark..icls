@@ -271,6 +271,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b58900" />
+        <option name="BACKGROUND" value="2b36" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
