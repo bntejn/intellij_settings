@@ -10,12 +10,12 @@
         <mark key="." line="101" column="77" />
         <mark key="[" line="101" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/SmvStringLiteral.java" timestamp="1433912559747">
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/SmvStringLiteral.java" timestamp="1433913854608">
         <mark key="'" line="80" column="0" />
-        <mark key="]" line="82" column="1" />
-        <mark key="^" line="82" column="1" />
-        <mark key="." line="82" column="1" />
-        <mark key="[" line="81" column="51" />
+        <mark key="]" line="105" column="48" />
+        <mark key="^" line="105" column="48" />
+        <mark key="." line="105" column="48" />
+        <mark key="[" line="105" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/commons/SuiteInfo.java" timestamp="1433909751587">
         <mark key="'" line="71" column="9" />
@@ -32,11 +32,11 @@
       <file name="/a.dummy" timestamp="1433912726483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/CmMustEndWith.java" timestamp="1433912789030">
-        <mark key="]" line="46" column="18" />
-        <mark key="^" line="46" column="18" />
-        <mark key="." line="46" column="18" />
-        <mark key="[" line="46" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/CmMustEndWith.java" timestamp="1433913903409">
+        <mark key="]" line="79" column="76" />
+        <mark key="^" line="79" column="76" />
+        <mark key="." line="79" column="76" />
+        <mark key="[" line="79" column="82" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="]" line="2" column="9" />
@@ -111,10 +111,10 @@
         <text>L_ALPHABET</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>3</text>
+        <text>&quot;</text>
       </register>
       <register name="1" type="4">
         <text>L_ALPHABET</text>
@@ -123,16 +123,16 @@
         <text encoding="base64">ICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIFN0cmluZyBfMSA9ICIxIjsK</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>L</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">R09FU19SRUFEWSA=</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>goes_ready</text>
       </register>
       <register name="4" type="4">
-        <text>5</text>
+        <text>goes_ready</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -141,7 +141,7 @@
         <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">TF9HT0VTX1JFQURZIA==</text>
       </register>
     </registers>
     <search>
