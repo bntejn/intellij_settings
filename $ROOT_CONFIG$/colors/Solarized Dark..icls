@@ -40,7 +40,7 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -50,7 +50,7 @@
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -71,7 +71,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -402,7 +402,7 @@
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -452,7 +452,7 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -469,12 +469,12 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -500,7 +500,7 @@
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -523,7 +523,7 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="759ec8" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
@@ -538,7 +538,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="98acae" />
         <option name="BACKGROUND" value="2b36" />
       </value>
     </option>
