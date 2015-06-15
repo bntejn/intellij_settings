@@ -43,7 +43,7 @@
         <mark key="." line="137" column="38" />
         <mark key="[" line="137" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1434282666373">
+      <file name="/a.dummy" timestamp="1434333277970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/CmMustEndWith.java" timestamp="1434282967106">
@@ -69,18 +69,18 @@
         <mark key="." line="40" column="0" />
         <mark key="[" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEvent.java" timestamp="1433919044269">
-        <mark key="]" line="133" column="39" />
-        <mark key="^" line="133" column="39" />
-        <mark key="." line="133" column="39" />
-        <mark key="[" line="133" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEvent.java" timestamp="1434333260216">
+        <mark key="]" line="144" column="17" />
+        <mark key="^" line="144" column="17" />
+        <mark key="." line="144" column="17" />
+        <mark key="[" line="143" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEnvironment.java" timestamp="1433919125464">
-        <mark key="'" line="83" column="26" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-        <mark key="[" line="17" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/MEnvironment.java" timestamp="1434332588630">
+        <mark key="'" line="86" column="26" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="[" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/OSTG/src/sselab/nusek/modgen/CmInPairs.java" timestamp="1434276861969">
         <mark key="'" line="93" column="22" />
@@ -142,46 +142,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Added `acronym` field. For example, the acronym of ActivateTask is AT.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aWRcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>Added `acronym` field. For example, the acronym of ActivateTask is AT.</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>eq</text>
       </register>
       <register name="1" type="4">
-        <text>Added `acronym` field. For example, the acronym of ActivateTask is AT.</text>
+        <text>(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVhY2hDYXNlKGFuZCgKICAgICAgICAgICAgICBlcShpbmRleChfU1RBVEUsIGkpLCBfUkVMKSwKICAgICAgICAgICAgICBkb3QoX0VOViwgX05HUiksCiAgICAgICAgICAgICAgZXEobmV4dChkb3QoX0VOViwgX1BfUikpLCBJbnRlZ2VyLnRvU3RyaW5nKGkpKSksIF9ITEQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAqIGVudi5uQ0UgJiBuZXh0KHJ0aWQpID0gMSAmIG5leHQoZW52LnBfZSkgPSAxIDogY2xlYXI7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>next</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>API</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBmb3JtYXR0ZXI6b2ZmCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8qKiBAY29kZQogICAgICAgICAgICogbmV4dChzdGF0ZVsxXVsxXSA6PSBjYXNlCiAgICAgICAgICAgKmVudi5uU0UgJiBuZXh0KGV2dC5wX3QpID0gMSAmIHQxLndhaXRfZSA9IDEKICAgICAgICAgICAqICYgdDEuc3RhdGUgPSBXSVQgJiBuZXh0KGVudi5wX2UpID0gMSA6IHNldDsKICAgICAgICAgICAqIGVudi5uQ0UgJiBuZXh0KHJ0aWQpID0gMSAmIG5leHQoZW52LnBfZSkgPSAxIDogY2xlYXI7CiAgICAgICAgICAgKiBUUlVFIDogc3RhdGVbMV1bMV07Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAqIGVzYWM7CiAgICAgICAgICAgKi8K</text>
       </register>
     </registers>
     <search>
@@ -218,10 +218,10 @@
         <entry>%s/eq(_ERROR, L_NON)/not(_ERROR)</entry>
         <entry>%s/L_ALPHABET/_API</entry>
         <entry>%s/eq(_API, _SE)/dot(_ENV, _NSE)</entry>
-        <entry>1</entry>
         <entry>100</entry>
         <entry>q</entry>
         <entry>echo $MYVIMRC</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
