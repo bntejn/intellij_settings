@@ -39,7 +39,7 @@
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
         <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
-        <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+        <property name="settings.editor.selected.configurable" value="project.scopes" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -128,6 +128,21 @@
           <listeners />
           <method />
         </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
