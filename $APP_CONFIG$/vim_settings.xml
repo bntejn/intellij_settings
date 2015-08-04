@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1433849142085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1432884668011">
-        <mark key="]" line="27" column="22" />
-        <mark key="^" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="[" line="27" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1438681328775">
+        <mark key="]" line="29" column="32" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="[" line="29" column="26" />
       </file>
       <file name="/Python Console" timestamp="1432406717226">
         <mark key="[" line="0" column="0" />
@@ -74,47 +74,47 @@
       <jump line="29" column="23" filename="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpcnN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>twelve</text>
       </register>
       <register name="/" type="4">
         <text>bst</text>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>twelve</text>
       </register>
       <register name="3" type="4">
-        <text>from</text>
+        <text>twelve</text>
       </register>
       <register name="2" type="4">
-        <text>to</text>
+        <text>twelve</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpcnN0Cg==</text>
+      <register name="1" type="4">
+        <text>twelve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBzZWFyY2ggdGhlIHNlbmRlciBvZiB0aGlzIG1lc3NhZ2UgdXNpbmcgcmVnZXggcGF0dGVybgo=</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>to</text>
       </register>
-      <register name="6" type="4">
-        <text>l</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZpcnN0Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXQK</text>
+      <register name="5" type="4">
+        <text>twelve</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWFyY2hCeURhdGUK</text>
+      <register name="4" type="4">
+        <text>twelve</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZWFyY2hCeURhdGUK</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>from</text>
       </register>
     </registers>
     <search>
