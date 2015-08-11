@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1439328951117">
-        <mark key="'" line="219" column="8" />
-        <mark key="]" line="202" column="0" />
-        <mark key="^" line="222" column="29" />
-        <mark key="." line="202" column="0" />
-        <mark key="[" line="202" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1439330117459">
+        <mark key="'" line="228" column="8" />
+        <mark key="]" line="232" column="29" />
+        <mark key="^" line="232" column="29" />
+        <mark key="." line="232" column="29" />
+        <mark key="[" line="232" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
@@ -81,47 +81,47 @@
       <jump line="231" column="8" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgcmVtb3ZlTGlua1RvQ2hpbGQoc2VsZiwgbm9kZSk6CiAgICAgICAgIiIiCiAgICAgICAgUmVtb3ZlIHRoZSBsaW5rIHRvIGEgY2hpbGQgbm9kZSBgbm9kZWAuCiAgICAgICAgOnBhcmFtIG5vZGU6IEEgY2hpbGQgbm9kZSB0byByZW1vdmUgdGhlIGxpbmsgdG8uCiAgICAgICAgIiIiCiAgICAgICAgaWYgc2VsZi5yaWdodC5rZXkgPT0gbm9kZS5rZXk6CiAgICAgICAgICAgIHNlbGYucmlnaHQgPSBOb25lCiAgICAgICAgZWxpZiBzZWxmLmxlZnQua2V5ID09IG5vZGUua2V5OgogICAgICAgICAgICBzZWxmLmxlZnQgPSBOb25lCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJUaGUgbm9kZSAiLCBub2RlLCAiIGlzIG5vdCB0aGUgY2hpbGQgb2YgIiwgc2VsZikK</text>
+      <register name="&quot;" type="4">
+        <text>inorder</text>
       </register>
       <register name="/" type="4">
         <text>root.insert</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>inorder</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJvb3QucHV0KEJzdE5vZGUoNywgInNldmVuIikpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvb3QucHJpbnRJbm9yZGVyKCkK</text>
+      <register name="2" type="4">
+        <text>three</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgcmVtb3ZlTGlua1RvQ2hpbGQoc2VsZiwgbm9kZSk6CiAgICAgICAgIiIiCiAgICAgICAgUmVtb3ZlIHRoZSBsaW5rIHRvIGEgY2hpbGQgbm9kZSBgbm9kZWAuCiAgICAgICAgOnBhcmFtIG5vZGU6IEEgY2hpbGQgbm9kZSB0byByZW1vdmUgdGhlIGxpbmsgdG8uCiAgICAgICAgIiIiCiAgICAgICAgaWYgc2VsZi5yaWdodC5rZXkgPT0gbm9kZS5rZXk6CiAgICAgICAgICAgIHNlbGYucmlnaHQgPSBOb25lCiAgICAgICAgZWxpZiBzZWxmLmxlZnQua2V5ID09IG5vZGUua2V5OgogICAgICAgICAgICBzZWxmLmxlZnQgPSBOb25lCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJUaGUgbm9kZSAiLCBub2RlLCAiIGlzIG5vdCB0aGUgY2hpbGQgb2YgIiwgc2VsZikK</text>
+      <register name="1" type="4">
+        <text>inorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50Tm9kZXMocm9vdC5pbm9yZGVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VhcmNoTm9kZS5wYXJlbnQua2V5ID4gc2VhcmNoTm9kZS5rZXk6CiAgICAgICAgICAgICAgICBzZWFyY2hOb2RlLnBhcmVudC5sZWZ0ID0gTm9uZQo=</text>
       </register>
       <register name="7" type="4">
-        <text>bst</text>
+        <text>seven</text>
       </register>
       <register name="6" type="4">
-        <text>printInorder</text>
+        <text>one</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>4</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>3</text>
       </register>
       <register name=":" type="4">
-        <text>102</text>
+        <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>bst</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>bst</text>
+        <text>five</text>
       </register>
     </registers>
     <search>
@@ -175,8 +175,8 @@
         <entry>277</entry>
         <entry>%s/root.insert/root.put/</entry>
         <entry>211</entry>
-        <entry>w</entry>
         <entry>102</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
