@@ -3,15 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1439322123518">
-        <mark key="'" line="19" column="44" />
-        <mark key="]" line="289" column="0" />
-        <mark key="^" line="289" column="0" />
-        <mark key="." line="289" column="0" />
-        <mark key="[" line="288" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1439326412761">
+        <mark key="]" line="271" column="0" />
+        <mark key="^" line="288" column="0" />
+        <mark key="." line="227" column="0" />
+        <mark key="[" line="227" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1433849142070">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" timestamp="1433835233862">
         <mark key="'" line="0" column="26" />
@@ -19,9 +21,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1433849142070">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1433849142085">
         <mark key="[" line="0" column="0" />
@@ -32,13 +31,13 @@
         <mark key="." line="16" column="13" />
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1432406717226">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433849062687">
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1432406717226">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
@@ -46,14 +45,14 @@
         <mark key="." line="0" column="25" />
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="/" timestamp="1433836638748">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
+      </file>
+      <file name="/" timestamp="1433836638748">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -71,15 +70,18 @@
       <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="0" column="26" filename="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" />
       <jump line="29" column="23" filename="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" />
-      <jump line="13" column="30" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="19" column="44" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="13" column="2" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="193" column="18" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="180" column="11" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="154" column="6" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>twelve</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWYgcmVtb3ZlKHNlbGYpOgogICAgIiIiCiAgICBSZW1vdmUgdGhpcyBub2RlIGZyb20gdGhlIHRyZWUuCiAgICBBbGdvcml0aG06CiAgICAgICogQ2FzZSAxIC0gV2hlbiB0aGUgbm9kZSB0byByZW1vdmUgaGFzIG5vIGNoaWxkOgogICAgICAgICAgRXJhc2UgdGhlIGxpbmsgdG8gdGhpcyBub2RlIGZyb20gdGhlIHBhcmVudC4KICAgICAgKiBDYXNlIDIgLSBXaGVuIHRoZSBub2RlIHRvIHJlbW92ZSBoYXMgb25lIGNoaWxkOgogICAgICAgICAgTGluayBpdHMgcGFyZW50IHRvIGl0cyBjaGlsZC4KICAgICAgKiBDYXNlIDMgLSBXaGVuIHRoZSBub2RlIHRvIHJlbW92ZSBoYXMgdHdvIGNoaWxkcmVuOgogICAgICAgICogRmluZCBhIG1pbmltdW0gdmFsdWUgaW4gdGhlIHJpZ2h0IHN1YnRyZWU7CiAgICAgICAgKiBSZXBsYWNlIHZhbHVlIG9mIHRoZSBub2RlIHRvIGJlIHJlbW92ZWQgd2l0aCBmb3VuZCBtaW5pbXVtLgogICAgICAgIE5vdywgcmlnaHQgc3VidHJlZSBjb250YWlucyBhIGR1cGxpY2F0ZSEKICAgICAgICBhcHBseSByZW1vdmUgdG8gdGhlIHJpZ2h0IHN1YnRyZWUgdG8gcmVtb3ZlIGEgZHVwbGljYXRlLgogICAgOnBhcmFtIGtleTogVGhlIGtleSBvZiBhIG5vZGUgdG8gc2VhcmNoIGZvci4KICAgIDpyZXR1cm46CiAgICAiIiIKICAgIGlmIHNlbGYuZ2V0TkNoaWxkcmVuKCkgPT0gMDoKICAgICAgIyBDYXNlIDEKICAgICAgaWYgc2VsZi5rZXkgPiBzZWxmLnBhcmVudC5rZXk6CiAgICAgICAgc2VsZi5wYXJlbnQucmlnaHQgPSBOb25lCiAgICAgIGVsaWYgc2VsZi5rZXkgPCBzZWxmLnBhcmVudC5rZXk6CiAgICAgICAgc2VsZi5wYXJlbnQubGVmdCA9IE5vbmUKICAgICAgZWxzZToKICAgICAgICBhc3NlcnQgRmFsc2UgICAgIyBzaGFsbCBuZXZlciBoYXBwZW4KICAgIGVsaWYgc2VsZi5nZXROQ2hpbGRyZW4oKSA9PSAxOgogICAgICAjIENhc2UgMgogICAgICBzZWxmLnJlbW92ZUxpbmtUb0NoaWxkKHNlbGYpCiAgICAgIGlmIHNlbGYubGVmdCBpcyBub3QgTm9uZToKICAgICAgICBzZWxmLnBhcmVudC5wdXQoc2VsZi5sZWZ0KQogICAgICBlbGlmIHNlbGYucmlnaHQgaXMgbm90IE5vbmU6CiAgICAgICAgc2VsZi5wYXJlbnQucHV0KHNlbGYucmlnaHQpCiAgICAgIGVsc2U6CiAgICAgICAgYXNzZXJ0IEZhbHNlICAgICMgc2hhbGwgbmV2ZXIgaGFwcGVuCiAgICBlbGlmIHNlbGYuZ2V0TkNoaWxkcmVuKCkgPT0gMjoKICAgICAgI1RPRE8KICAgICAgbWluTm9kZSA9IHNlbGYucmlnaHQuZ2V0TWluaW11bU5vZGUoKQogICAgICBuZXdOb2RlID0gQnN0Tm9kZShtaW5Ob2RlKQogICAgICBuZXdOb2RlLmxlZnQgPSBzZWxmLmxlZnQKICAgICAgbmV3Tm9kZS5yaWdodCA9IHNlbGYucmlnaHQKICAgICAgc2VsZi5wYXJlbnQucmVtb3ZlTGlua1RvQ2hpbGQoc2VsZikKICAgICAgc2VsZi5wYXJlbnQucHV0KG5ld05vZGUpCiAgICAgIG1pbk5vZGUucmVtb3ZlKCkKICAgIGVsc2U6CiAgICAgIGFzc2VydCBGYWxzZSAgICAgICMgc2hhbGwgbmV2ZXIgaGFwcGVuCgo=</text>
       </register>
       <register name="/" type="4">
-        <text>parent</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="-" type="4">
         <text>twelve</text>
@@ -87,20 +89,20 @@
       <register name="3" type="4">
         <text>twelve</text>
       </register>
-      <register name="2" type="4">
-        <text>twelve</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>twelve</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBkZWYgcmVtb3ZlKHNlbGYpOgogICAgIiIiCiAgICBSZW1vdmUgdGhpcyBub2RlIGZyb20gdGhlIHRyZWUuCiAgICBBbGdvcml0aG06CiAgICAgICogQ2FzZSAxIC0gV2hlbiB0aGUgbm9kZSB0byByZW1vdmUgaGFzIG5vIGNoaWxkOgogICAgICAgICAgRXJhc2UgdGhlIGxpbmsgdG8gdGhpcyBub2RlIGZyb20gdGhlIHBhcmVudC4KICAgICAgKiBDYXNlIDIgLSBXaGVuIHRoZSBub2RlIHRvIHJlbW92ZSBoYXMgb25lIGNoaWxkOgogICAgICAgICAgTGluayBpdHMgcGFyZW50IHRvIGl0cyBjaGlsZC4KICAgICAgKiBDYXNlIDMgLSBXaGVuIHRoZSBub2RlIHRvIHJlbW92ZSBoYXMgdHdvIGNoaWxkcmVuOgogICAgICAgICogRmluZCBhIG1pbmltdW0gdmFsdWUgaW4gdGhlIHJpZ2h0IHN1YnRyZWU7CiAgICAgICAgKiBSZXBsYWNlIHZhbHVlIG9mIHRoZSBub2RlIHRvIGJlIHJlbW92ZWQgd2l0aCBmb3VuZCBtaW5pbXVtLgogICAgICAgIE5vdywgcmlnaHQgc3VidHJlZSBjb250YWlucyBhIGR1cGxpY2F0ZSEKICAgICAgICBhcHBseSByZW1vdmUgdG8gdGhlIHJpZ2h0IHN1YnRyZWUgdG8gcmVtb3ZlIGEgZHVwbGljYXRlLgogICAgOnBhcmFtIGtleTogVGhlIGtleSBvZiBhIG5vZGUgdG8gc2VhcmNoIGZvci4KICAgIDpyZXR1cm46CiAgICAiIiIKICAgIGlmIHNlbGYuZ2V0TkNoaWxkcmVuKCkgPT0gMDoKICAgICAgIyBDYXNlIDEKICAgICAgaWYgc2VsZi5rZXkgPiBzZWxmLnBhcmVudC5rZXk6CiAgICAgICAgc2VsZi5wYXJlbnQucmlnaHQgPSBOb25lCiAgICAgIGVsaWYgc2VsZi5rZXkgPCBzZWxmLnBhcmVudC5rZXk6CiAgICAgICAgc2VsZi5wYXJlbnQubGVmdCA9IE5vbmUKICAgICAgZWxzZToKICAgICAgICBhc3NlcnQgRmFsc2UgICAgIyBzaGFsbCBuZXZlciBoYXBwZW4KICAgIGVsaWYgc2VsZi5nZXROQ2hpbGRyZW4oKSA9PSAxOgogICAgICAjIENhc2UgMgogICAgICBzZWxmLnJlbW92ZUxpbmtUb0NoaWxkKHNlbGYpCiAgICAgIGlmIHNlbGYubGVmdCBpcyBub3QgTm9uZToKICAgICAgICBzZWxmLnBhcmVudC5wdXQoc2VsZi5sZWZ0KQogICAgICBlbGlmIHNlbGYucmlnaHQgaXMgbm90IE5vbmU6CiAgICAgICAgc2VsZi5wYXJlbnQucHV0KHNlbGYucmlnaHQpCiAgICAgIGVsc2U6CiAgICAgICAgYXNzZXJ0IEZhbHNlICAgICMgc2hhbGwgbmV2ZXIgaGFwcGVuCiAgICBlbGlmIHNlbGYuZ2V0TkNoaWxkcmVuKCkgPT0gMjoKICAgICAgI1RPRE8KICAgICAgbWluTm9kZSA9IHNlbGYucmlnaHQuZ2V0TWluaW11bU5vZGUoKQogICAgICBuZXdOb2RlID0gQnN0Tm9kZShtaW5Ob2RlKQogICAgICBuZXdOb2RlLmxlZnQgPSBzZWxmLmxlZnQKICAgICAgbmV3Tm9kZS5yaWdodCA9IHNlbGYucmlnaHQKICAgICAgc2VsZi5wYXJlbnQucmVtb3ZlTGlua1RvQ2hpbGQoc2VsZikKICAgICAgc2VsZi5wYXJlbnQucHV0KG5ld05vZGUpCiAgICAgIG1pbk5vZGUucmVtb3ZlKCkKICAgIGVsc2U6CiAgICAgIGFzc2VydCBGYWxzZSAgICAgICMgc2hhbGwgbmV2ZXIgaGFwcGVuCgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBzZWFyY2ggdGhlIHNlbmRlciBvZiB0aGlzIG1lc3NhZ2UgdXNpbmcgcmVnZXggcGF0dGVybgo=</text>
       </register>
       <register name="7" type="4">
-        <text>to</text>
+        <text>twelve</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpcnN0Cg==</text>
+      <register name="6" type="4">
+        <text>twelve</text>
       </register>
       <register name="5" type="4">
         <text>twelve</text>
@@ -111,20 +113,20 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWFyY2hCeURhdGUK</text>
+      <register name="9" type="4">
+        <text>to</text>
       </register>
-      <register name="8" type="4">
-        <text>from</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZpcnN0Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>parent</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>parent</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace encoding="base64">ICBic3Q=</last-replace>
       <last-substitute>bst</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -144,6 +146,10 @@
         <entry encoding="base64">XDxlbGlmXD4=</entry>
         <entry>bst</entry>
         <entry>parent</entry>
+        <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
+        <entry encoding="base64">XDxyZW1vdmVMaW5rVG9DaGlsZFw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
