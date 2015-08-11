@@ -3,18 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
-        <mark key="[" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1438597676694">
-        <mark key="'" line="278" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1439322123518">
+        <mark key="'" line="19" column="44" />
         <mark key="]" line="289" column="0" />
         <mark key="^" line="289" column="0" />
         <mark key="." line="289" column="0" />
         <mark key="[" line="288" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1433849142070">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
+        <mark key="[" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" timestamp="1433835233862">
         <mark key="'" line="0" column="26" />
@@ -22,6 +19,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1433849142070">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1433849142085">
         <mark key="[" line="0" column="0" />
@@ -32,13 +32,13 @@
         <mark key="." line="16" column="13" />
         <mark key="[" line="16" column="14" />
       </file>
+      <file name="/Python Console" timestamp="1432406717226">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433849062687">
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1432406717226">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
@@ -46,14 +46,14 @@
         <mark key="." line="0" column="25" />
         <mark key="[" line="2" column="26" />
       </file>
+      <file name="/" timestamp="1433836638748">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
-      </file>
-      <file name="/" timestamp="1433836638748">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -65,20 +65,21 @@
       <jump line="53" column="6" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="66" column="20" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
-      <jump line="13" column="4" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="103" column="8" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="156" column="7" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="150" column="4" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="0" column="26" filename="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" />
       <jump line="29" column="23" filename="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" />
+      <jump line="13" column="30" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="19" column="44" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>twelve</text>
       </register>
       <register name="/" type="4">
-        <text>bst</text>
+        <text>parent</text>
       </register>
       <register name="-" type="4">
         <text>twelve</text>
@@ -118,12 +119,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbGlmXD4=</last-search>
+      <last-search>parent</last-search>
       <last-offset />
-      <last-pattern>bst</last-pattern>
+      <last-pattern>parent</last-pattern>
       <last-replace encoding="base64">ICBic3Q=</last-replace>
       <last-substitute>bst</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -142,6 +143,7 @@
         <entry>__str</entry>
         <entry encoding="base64">XDxlbGlmXD4=</entry>
         <entry>bst</entry>
+        <entry>parent</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
