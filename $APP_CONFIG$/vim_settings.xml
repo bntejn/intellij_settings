@@ -13,11 +13,12 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1439918940900">
-        <mark key="]" line="38" column="30" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="38" column="30" />
-        <mark key="[" line="38" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1439920669888">
+        <mark key="'" line="28" column="12" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="[" line="13" column="21" />
       </file>
       <file name="/a.dummy" timestamp="1439861523063">
         <mark key="[" line="0" column="0" />
@@ -47,11 +48,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1439918802449">
-        <mark key="]" line="32" column="44" />
-        <mark key="^" line="32" column="44" />
-        <mark key="." line="32" column="44" />
-        <mark key="[" line="32" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1439920642729">
+        <mark key="'" line="234" column="11" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="16" column="42" />
+        <mark key="[" line="16" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -97,64 +99,66 @@
       <jump line="235" column="11" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="75" column="7" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="231" column="8" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
+      <jump line="230" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" />
+      <jump line="234" column="11" filename="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" />
+      <jump line="13" column="22" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
+      <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyZWUgPSBOb25lCg==</text>
       </register>
       <register name="/" type="4">
-        <text>root.insert</text>
+        <text>BstNode</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>self</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>data</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text>key</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyZWUgPSBOb25lCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnRyZWUucHV0KHNlbGYudGhyZWUpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>__init__</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuMSA9IEJzdE5vZGUoCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">QnN0Tm9kZSA=</text>
+        <text>what</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bm9kZSA=</text>
+        <text encoding="base64">OiA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmtleSA9IG5vZGUuZGF0YQogICAgICAgIHNlbGYuZGF0YSA9IG5vZGUuZGF0YQo=</text>
+      <register name="4" type="4">
+        <text>int</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub2RlXD4=</last-search>
+      <last-search>BstNode</last-search>
       <last-offset />
-      <last-pattern>root.insert</last-pattern>
+      <last-pattern>BstNode</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Queue</entry>
-        <entry encoding="base64">XDxxXD4=</entry>
         <entry>raise</entry>
         <entry>~= None</entry>
         <entry>\!\= None</entry>
@@ -173,6 +177,8 @@
         <entry>self</entry>
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>root.insert</entry>
+        <entry encoding="base64">XDxCc3ROb2RlXD4=</entry>
+        <entry>BstNode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/append/extend/gc</entry>
