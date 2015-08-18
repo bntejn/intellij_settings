@@ -13,7 +13,10 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1439328563118">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1439862337333">
+        <mark key="[" line="29" column="33" />
+      </file>
+      <file name="/a.dummy" timestamp="1439861523063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
@@ -41,7 +44,7 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1439861093607" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1439861942138" />
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -89,46 +92,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKG5vZGUuX19zdHJfXygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>root.insert</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">b2Ygbm9kZXMg</text>
       </register>
-      <register name="3" type="4">
-        <text>t</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKG5vZGUuX19zdHJfXygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VhcmNoTm9kZS5wYXJlbnQua2V5ID4gc2VhcmNoTm9kZS5rZXk6CiAgICAgICAgICAgICAgICBzZWFyY2hOb2RlLnBhcmVudC5sZWZ0ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBuMSA9IEJzdE5vZGUoMywgInRocmVlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBxdWV1ZSBpbXBvcnQgUXVldWUK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvcnJlY3RseQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IHByaQo=</text>
+        <text encoding="base64">ICAgICAgICBuMS5wdXQobjIpCiAgICAgICAgbjEucHV0KG4zKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>m</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text encoding="base64">b2Ygbm9kZXMg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">b3BlcmF0ZWQg</text>
       </register>
     </registers>
     <search>
