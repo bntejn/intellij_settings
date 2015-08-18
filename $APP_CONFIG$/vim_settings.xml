@@ -13,10 +13,10 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1439922276855">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1439923086250">
         <mark key="'" line="28" column="12" />
         <mark key="]" line="48" column="0" />
-        <mark key="^" line="49" column="31" />
+        <mark key="^" line="48" column="12" />
         <mark key="." line="48" column="0" />
         <mark key="[" line="48" column="0" />
       </file>
@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1439922213856">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1439923257216">
         <mark key="'" line="234" column="11" />
-        <mark key="]" line="225" column="39" />
-        <mark key="^" line="225" column="39" />
-        <mark key="." line="225" column="39" />
-        <mark key="[" line="225" column="39" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="0" />
+        <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -106,46 +106,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igbm9kZSBpbiBzZWxmLnRyZWUucHJlb3JkZXIoKToKICAgICAgICAgICAgaWYgbm9kZS52YWx1ZUVxdWFscygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>BstNode</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Jg==</text>
+        <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZGQKICAgIGRlZiBpc0xpc3RFcXVhbChjbHMsIGxzdDEsIGxzdDIpOgogICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igbm9kZSBpbiBzZWxmLnRyZWUucHJlb3JkZXIoKToKICAgICAgICAgICAgaWYgbm9kZS52YWx1ZUVxdWFscygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnRyZWUucHV0KHNlbGYudGhyZWUpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyZWUucHJlb3JkZXIoKQo=</text>
+      <register name="7" type="4">
+        <text>self</text>
       </register>
       <register name="6" type="4">
-        <text>list</text>
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoc2VsZi50cmVlLnByZW9yZGVyKCkgPT0gZXhwZWN0ZWQpLmFsbAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2UKICAgICAgICBpZiBzZWxmLnRyZWUucHJlb3JkZXIoKSAhPSBleHBlY3RlZDoK</text>
+        <text encoding="base64">ICAgICAgICBmb3Igbm9kZSBpbiBzZWxmLnRyZWUucHJlb3JkZXIoKToKICAgICAgICAgICAgaWYgbm9kZS52YWx1ZUVxdWFscygpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ID09IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBjaGVjawo=</text>
       </register>
     </registers>
     <search>
