@@ -13,12 +13,12 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440006854907">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440008357433">
         <mark key="'" line="28" column="12" />
-        <mark key="]" line="50" column="26" />
-        <mark key="^" line="50" column="26" />
-        <mark key="." line="50" column="26" />
-        <mark key="[" line="50" column="27" />
+        <mark key="]" line="62" column="51" />
+        <mark key="^" line="62" column="75" />
+        <mark key="." line="62" column="0" />
+        <mark key="[" line="62" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1440000341345">
         <mark key="[" line="0" column="0" />
@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440006950518">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440007939944">
         <mark key="'" line="234" column="11" />
-        <mark key="]" line="56" column="19" />
-        <mark key="^" line="56" column="19" />
-        <mark key="." line="56" column="19" />
-        <mark key="[" line="56" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="[" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -105,47 +105,47 @@
       <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBCc3ROb2RlLnByaW50Tm9kZUFycihzZWxmLnRyZWUucG9zdG9yZGVyKCkpCg==</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>3</text>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>2</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBCc3ROb2RlLnByaW50Tm9kZUFycihzZWxmLnRyZWUucG9zdG9yZGVyKCkpCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi50cmVlLmlzVHJlZUVxdWFscyh0cmVlMik6CiAgICAgICAgICAgIHNlbGYuZmFpbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgQnN0Tm9kZS5pc05vZGVBcnJheUVxdWFscyhbc2VsZi5uMSwgc2VsZi5uMywgc2VsZi5uNCwgc2VsZi5uMl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLnBvc3RvcmRlcigpKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2lzS2V5RXF1YWxzKHNlbGYpOgogICAgICAgIG4gPSBCc3ROb2RlLmNvcHlDb25zdHJ1Y3Qoc2VsZi5uMykKICAgICAgICBCc3ROb2RlLmlzS2V5RXF1YWxzKCkK</text>
+      <register name="7" type="4">
+        <text>1</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgQnN0Tm9kZS5pc05vZGVBcnJheUVxdWFscyhbc2VsZi5uMSwgc2VsZi5uMywgc2VsZi5uNCwgc2VsZi5uMl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLnBvc3RvcmRlcigpKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>arr1</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>n2</text>
+        <text>4</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -189,7 +189,6 @@
         <entry>/__str</entry>
         <entry>999</entry>
         <entry>%s/bst/  bst/gc</entry>
-        <entry>1</entry>
         <entry>210</entry>
         <entry>%s/self/node/gc</entry>
         <entry>%s/self/node/c</entry>
@@ -200,6 +199,7 @@
         <entry>%s/root.insert/root.put/</entry>
         <entry>211</entry>
         <entry>102</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
