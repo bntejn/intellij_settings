@@ -13,12 +13,12 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440004252907">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440006854907">
         <mark key="'" line="28" column="12" />
-        <mark key="]" line="84" column="40" />
-        <mark key="^" line="84" column="40" />
-        <mark key="." line="84" column="40" />
-        <mark key="[" line="84" column="36" />
+        <mark key="]" line="50" column="26" />
+        <mark key="^" line="50" column="26" />
+        <mark key="." line="50" column="26" />
+        <mark key="[" line="50" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1440000341345">
         <mark key="[" line="0" column="0" />
@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440004354768">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440006950518">
         <mark key="'" line="234" column="11" />
-        <mark key="]" line="252" column="11" />
-        <mark key="^" line="252" column="11" />
-        <mark key="." line="252" column="11" />
-        <mark key="[" line="252" column="8" />
+        <mark key="]" line="56" column="19" />
+        <mark key="^" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+        <mark key="[" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -67,7 +67,7 @@
         <mark key="." line="16" column="13" />
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1440000702832">
+      <file name="/Python Console" timestamp="1440006344486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433849062687">
@@ -106,52 +106,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Array</text>
-      </register>
-      <register name="/" type="4">
-        <text>BstNode</text>
-      </register>
-      <register name="-" type="4">
-        <text>Array</text>
-      </register>
-      <register name="3" type="4">
         <text>.</text>
       </register>
+      <register name="/" type="4">
+        <text>isKey</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="3" type="4">
+        <text>i</text>
+      </register>
       <register name="2" type="4">
-        <text>tree</text>
+        <text>]</text>
       </register>
       <register name="1" type="4">
-        <text>Array</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi50cmVlLmlzVHJlZUVxdWFscyh0cmVlMik6CiAgICAgICAgICAgIHNlbGYuZmFpbCgpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2lzS2V5RXF1YWxzKHNlbGYpOgogICAgICAgIG4gPSBCc3ROb2RlLmNvcHlDb25zdHJ1Y3Qoc2VsZi5uMykKICAgICAgICBCc3ROb2RlLmlzS2V5RXF1YWxzKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>arr1</text>
       </register>
       <register name="4" type="4">
-        <text>self</text>
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5pc05vZGVFcXVhbHMobm9kZSkgJiBzZWxmLmlzVHJlZUVxdWFscygKICAgICAgICAgICAgbm9kZS5sZWZ0KSAmIHNlbGYuaXNUcmVlRXF1YWxzKG5vZGUucmlnaHQpCg==</text>
+      <register name="9" type="4">
+        <text>n2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
     </registers>
     <search>
-      <last-search>BstNode</last-search>
+      <last-search>isKey</last-search>
       <last-offset />
-      <last-pattern>BstNode</last-pattern>
+      <last-pattern>isKey</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>1</last-dir>
@@ -159,7 +159,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raise</entry>
         <entry>~= None</entry>
         <entry>\!\= None</entry>
         <entry>!=</entry>
@@ -179,6 +178,7 @@
         <entry>root.insert</entry>
         <entry encoding="base64">XDxCc3ROb2RlXD4=</entry>
         <entry>BstNode</entry>
+        <entry>isKey</entry>
       </history-search>
       <history-cmd>
         <entry>%s/append/extend/gc</entry>
