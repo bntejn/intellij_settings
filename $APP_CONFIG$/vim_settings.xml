@@ -13,12 +13,12 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440262030923">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440264507345">
         <mark key="'" line="28" column="12" />
-        <mark key="]" line="66" column="57" />
-        <mark key="^" line="66" column="57" />
-        <mark key="." line="66" column="57" />
-        <mark key="[" line="66" column="57" />
+        <mark key="]" line="69" column="47" />
+        <mark key="^" line="69" column="47" />
+        <mark key="." line="69" column="47" />
+        <mark key="[" line="69" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1440000341345">
         <mark key="[" line="0" column="0" />
@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440261742128">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440264285632">
         <mark key="'" line="234" column="11" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="83" column="26" />
-        <mark key="." line="85" column="0" />
-        <mark key="[" line="85" column="0" />
+        <mark key="]" line="165" column="42" />
+        <mark key="^" line="165" column="42" />
+        <mark key="." line="165" column="42" />
+        <mark key="[" line="165" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -106,46 +106,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>(</text>
       </register>
-      <register name="3" type="4">
-        <text>1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuaW5vcmRlcigpKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>tre</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgQnN0Tm9kZS5pc05vZGVBcnJheUVxdWFscyhbc2VsZi5uMSwgc2VsZi5uMiwgc2VsZi5uM10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLmlub3JkZXIoKSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>levelorder</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWluTm9kZSA9IHNlYXJjaE5vZGUucmlnaHQuZ2V0TWluaW11bU5vZGUoKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>minNode</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>inorder</text>
+        <text>BstNode</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmtleSwgbWluTm9kZS5kYXRhKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>minNode</text>
       </register>
     </registers>
     <search>
