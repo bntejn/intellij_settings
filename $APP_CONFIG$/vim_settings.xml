@@ -13,12 +13,8 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440776448310">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440778407567">
         <mark key="'" line="28" column="12" />
-        <mark key="]" line="115" column="18" />
-        <mark key="^" line="111" column="23" />
-        <mark key="." line="115" column="18" />
-        <mark key="[" line="115" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
@@ -45,18 +41,24 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440776474358">
-        <mark key="'" line="220" column="11" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="[" line="16" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440778227095">
+        <mark key="'" line="202" column="11" />
+        <mark key="]" line="259" column="52" />
+        <mark key="^" line="259" column="52" />
+        <mark key="." line="259" column="52" />
+        <mark key="[" line="259" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/visitorex/visitorex.py" timestamp="1440779089971">
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="[" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="]" line="16" column="13" />
@@ -69,7 +71,7 @@
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1440774927838">
+      <file name="/Python Console" timestamp="1440777751564">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -103,37 +105,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Node</text>
+        <text>Visitor</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text>Node</text>
+        <text>Visitor</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQnN0VHJhdmVyc2FsOjIKICAgIGRlZiBpbm9yZGVyKHNlbGYsIGJzdDogQnN0KToK</text>
+      <register name="3" type="4">
+        <text>node</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>`</text>
       </register>
       <register name="1" type="4">
-        <text>Node</text>
+        <text>Visitor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgQnN0Tm9kZS5pc05vZGVBcnJheUVxdWFscyhbc2VsZi5uMSwgc2VsZi5uMiwgc2VsZi5uM10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLmlub3JkZXIoKSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>root</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgVGVzdEJzdChUZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9pc05vZGVBcnJheUVxdWFscyhzZWxmKToKICAgICAgICBleHBlY3RlZCA9IFtzZWxmLm4yLCBzZWxmLm4xLCBzZWxmLm40LCBzZWxmLm4zXQogICAgICAgIGFzc2VydCBCc3QuaXNOb2RlQXJyYXlFcXVhbHMoc2VsZi50cmVlLmxldmVsb3JkZXIoKSwgZXhwZWN0ZWQpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>root</text>
+      <register name="6" type="2">
+        <text encoding="base64">X19hdXRob3JfXyA9ICd0YWVqb29uJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Node</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>B</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgVmlzaXRvcjoKICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9fY2xhc3NfXy5fX25hbWVfXwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -142,7 +144,7 @@
         <text>Node</text>
       </register>
       <register name="8" type="4">
-        <text>root</text>
+        <text>Node</text>
       </register>
     </registers>
     <search>
@@ -178,7 +180,6 @@
         <entry>isKey</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/~= None/is not None</entry>
         <entry>%s/\!\= None/is not None</entry>
         <entry>%s/__left/left</entry>
         <entry>%s/__right/right</entry>
@@ -197,6 +198,7 @@
         <entry>102</entry>
         <entry>1</entry>
         <entry>.,.+3w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
