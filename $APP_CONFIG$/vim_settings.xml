@@ -13,15 +13,12 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440264507345">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440776448310">
         <mark key="'" line="28" column="12" />
-        <mark key="]" line="69" column="47" />
-        <mark key="^" line="69" column="47" />
-        <mark key="." line="69" column="47" />
-        <mark key="[" line="69" column="28" />
-      </file>
-      <file name="/a.dummy" timestamp="1440000341345">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="115" column="18" />
+        <mark key="^" line="111" column="23" />
+        <mark key="." line="115" column="18" />
+        <mark key="[" line="115" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
@@ -48,12 +45,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440775485901">
-        <mark key="'" line="237" column="11" />
-        <mark key="]" line="281" column="0" />
-        <mark key="^" line="281" column="0" />
-        <mark key="." line="281" column="0" />
-        <mark key="[" line="277" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440776474358">
+        <mark key="'" line="220" column="11" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="[" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -105,47 +102,47 @@
       <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>Node</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVtb3ZlZCA=</text>
+        <text>Node</text>
       </register>
-      <register name="3" type="4">
-        <text>B</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgQnN0VHJhdmVyc2FsOjIKICAgIGRlZiBpbm9yZGVyKHNlbGYsIGJzdDogQnN0KToK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmVtb3ZlZCA=</text>
-      </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="1" type="4">
+        <text>Node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgQnN0Tm9kZS5pc05vZGVBcnJheUVxdWFscyhbc2VsZi5uMSwgc2VsZi5uMiwgc2VsZi5uM10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLmlub3JkZXIoKSkK</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>root</text>
       </register>
       <register name="6" type="4">
-        <text>N</text>
+        <text>root</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>Node</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>B</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>Node</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>root</text>
       </register>
     </registers>
     <search>
