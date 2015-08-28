@@ -31,12 +31,12 @@
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1439860842304">
-        <mark key="'" line="226" column="8" />
-        <mark key="]" line="220" column="0" />
-        <mark key="^" line="219" column="27" />
-        <mark key="." line="220" column="0" />
-        <mark key="[" line="220" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1440779285776">
+        <mark key="'" line="227" column="8" />
+        <mark key="]" line="219" column="30" />
+        <mark key="^" line="219" column="30" />
+        <mark key="." line="219" column="30" />
+        <mark key="[" line="218" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -54,12 +54,7 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/visitorex/visitorex.py" timestamp="1440779089971">
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="[" line="12" column="26" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/visitorex/visitorex.py" timestamp="1440779208905" />
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="]" line="16" column="13" />
         <mark key="^" line="16" column="13" />
@@ -104,47 +99,47 @@
       <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Visitor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVmlzaXRvci5fX25hbWVfCg==</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text>Visitor</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>node</text>
+        <text>_</text>
       </register>
       <register name="2" type="4">
-        <text>`</text>
+        <text />
       </register>
-      <register name="1" type="4">
-        <text>Visitor</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVmlzaXRvci5fX25hbWVfCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgQnN0Tm9kZS5pc05vZGVBcnJheUVxdWFscyhbc2VsZi5uMSwgc2VsZi5uMiwgc2VsZi5uM10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLmlub3JkZXIoKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdEJzdChUZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9pc05vZGVBcnJheUVxdWFscyhzZWxmKToKICAgICAgICBleHBlY3RlZCA9IFtzZWxmLm4yLCBzZWxmLm4xLCBzZWxmLm40LCBzZWxmLm4zXQogICAgICAgIGFzc2VydCBCc3QuaXNOb2RlQXJyYXlFcXVhbHMoc2VsZi50cmVlLmxldmVsb3JkZXIoKSwgZXhwZWN0ZWQpCg==</text>
+      <register name="7" type="4">
+        <text>Visitor</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X19hdXRob3JfXyA9ICd0YWVqb29uJwo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgVmlzaXRvcjoKICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9fY2xhc3NfXy5fX25hbWVfXwoK</text>
+        <text encoding="base64">Y2xhc3MgSW5vcmRlcihWaXNpdG9yKToKICAgIGRlZiB2aXNpdChzZWxmLCBub2RlOiBOb2RlKToKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>Node</text>
+        <text>node</text>
       </register>
       <register name="8" type="4">
-        <text>Node</text>
+        <text>`</text>
       </register>
     </registers>
     <search>
