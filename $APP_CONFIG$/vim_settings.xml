@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440264285632">
-        <mark key="'" line="234" column="11" />
-        <mark key="]" line="165" column="42" />
-        <mark key="^" line="165" column="42" />
-        <mark key="." line="165" column="42" />
-        <mark key="[" line="165" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440775485901">
+        <mark key="'" line="237" column="11" />
+        <mark key="]" line="281" column="0" />
+        <mark key="^" line="281" column="0" />
+        <mark key="." line="281" column="0" />
+        <mark key="[" line="277" column="41" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -72,7 +72,7 @@
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1440262034450">
+      <file name="/Python Console" timestamp="1440774927838">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -105,47 +105,47 @@
       <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">cmVtb3ZlZCA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuaW5vcmRlcigpKQo=</text>
+      <register name="3" type="4">
+        <text>B</text>
       </register>
       <register name="2" type="4">
-        <text>tre</text>
+        <text encoding="base64">cmVtb3ZlZCA=</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgQnN0Tm9kZS5pc05vZGVBcnJheUVxdWFscyhbc2VsZi5uMSwgc2VsZi5uMiwgc2VsZi5uM10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLmlub3JkZXIoKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluTm9kZSA9IHNlYXJjaE5vZGUucmlnaHQuZ2V0TWluaW11bU5vZGUoKQo=</text>
+      <register name="7" type="4">
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>minNode</text>
+        <text>N</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>BstNode</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmtleSwgbWluTm9kZS5kYXRhKQo=</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>minNode</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
@@ -181,7 +181,6 @@
         <entry>isKey</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/append/extend/gc</entry>
         <entry>%s/~= None/is not None</entry>
         <entry>%s/\!\= None/is not None</entry>
         <entry>%s/__left/left</entry>
@@ -200,6 +199,7 @@
         <entry>211</entry>
         <entry>102</entry>
         <entry>1</entry>
+        <entry>.,.+3w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
