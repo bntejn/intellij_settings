@@ -13,8 +13,11 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440778407567">
-        <mark key="'" line="28" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440802640572">
+        <mark key="'" line="27" column="12" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
@@ -41,11 +44,11 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440780443814">
-        <mark key="]" line="299" column="22" />
-        <mark key="^" line="299" column="22" />
-        <mark key="." line="299" column="22" />
-        <mark key="[" line="299" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440803189671">
+        <mark key="]" line="52" column="6" />
+        <mark key="^" line="52" column="6" />
+        <mark key="." line="52" column="6" />
+        <mark key="[" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -98,47 +101,47 @@
       <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>l</text>
       </register>
-      <register name="3" type="4">
-        <text>\</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV2ZWxvcmRlcigpCg==</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
-      <register name="1" type="4">
-        <text>self</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEJzdC5wcmludE5vZGVBcnIoYnN0LnByZW9yZGVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcGFyZW50OiBwYXJlbnQsIEJzdE5vZGUK</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>parent</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>parent</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlb3JkZXIoKQo=</text>
+      <register name="5" type="4">
+        <text>parent</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wb3N0b3JkZXIoKQo=</text>
+      <register name="4" type="4">
+        <text>parent</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>rder</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
