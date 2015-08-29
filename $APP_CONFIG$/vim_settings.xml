@@ -13,11 +13,12 @@
       <file name="/Dummy.txt" timestamp="1433849142070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440803709624">
-        <mark key="'" line="27" column="12" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440805028244">
+        <mark key="'" line="28" column="42" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="]" line="0" column="25" />
@@ -34,6 +35,11 @@
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bst.py" timestamp="1440805302839">
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1440779661794">
         <mark key="'" line="215" column="8" />
         <mark key="]" line="138" column="26" />
@@ -44,11 +50,11 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440803809901">
-        <mark key="]" line="202" column="14" />
-        <mark key="^" line="202" column="14" />
-        <mark key="." line="202" column="14" />
-        <mark key="[" line="202" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1440804925860">
+        <mark key="]" line="217" column="42" />
+        <mark key="^" line="217" column="42" />
+        <mark key="." line="217" column="42" />
+        <mark key="[" line="217" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
         <mark key="]" line="2" column="0" />
@@ -98,50 +104,50 @@
       <jump line="230" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" />
       <jump line="234" column="11" filename="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" />
       <jump line="13" column="22" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
-      <jump line="28" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
+      <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
-      <register name="3" type="4">
-        <text>self</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>nlist</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3ByaW50X25vZGVfbGlzdChzZWxmKToKICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcGFyZW50OiBwYXJlbnQsIEJzdE5vZGUK</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2lub3JkZXIoc2VsZik6CiAgICAgICAgYXNzZXJ0IEJzdC5ub2RlX2xpc3RfZXF1YWxzKFtzZWxmLm4xLCBzZWxmLm4yLCBzZWxmLm4zLCBzZWxmLm40XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLmlub3JkZXIoKSkKCiAgICBkZWYgdGVzdF9wcmVvcmRlcihzZWxmKToKICAgICAgICBhc3NlcnQgQnN0Lm5vZGVfbGlzdF9lcXVhbHMoW3NlbGYubjIsIHNlbGYubjEsIHNlbGYubjQsIHNlbGYubjNdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnRyZWUucHJlb3JkZXIoKSkKCiAgICBkZWYgdGVzdF9wb3N0b3JkZXIoc2VsZik6CiAgICAgICAgYXNzZXJ0IEJzdC5ub2RlX2xpc3RfZXF1YWxzKFtzZWxmLm4xLCBzZWxmLm4zLCBzZWxmLm40LCBzZWxmLm4yXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLnBvc3RvcmRlcigpKQoKICAgIGRlZiB0ZXN0X2xldmVsb3JkZXIoc2VsZik6CiAgICAgICAgYXNzZXJ0IEJzdC5ub2RlX2xpc3RfZXF1YWxzKFtzZWxmLm4yLCBzZWxmLm4xLCBzZWxmLm40LCBzZWxmLm4zXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi50cmVlLmxldmVsb3JkZXIoKSkK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBCc3Qubm9kZV9saXN0X3RvX2tleV9saXN0KHNlbGYuVFJFRS5wb3N0b3JkZXIoKSkgIT0gWzEsIDMsIDQsIDJdOgo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>(</text>
+      </register>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyZWUgPSBCc3ROb2RlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIT0gWzEsIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBub2RlX2xpc3RfZXF1YWxzKGNscywgYXJyMTogbGlzdCwgYXJyMjogbGlzdCk6CiAgICAgICAgaWYgYXJyMS5fX2xlbl9fKCkgIT0gYXJyMi5fX2xlbl9fKCk6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIGl0ID0gaXRlcihyYW5nZShhcnIxLl9fbGVuX18oKSkpCiAgICAgICAgZm9yIGkgaW4gaXQ6CiAgICAgICAgICAgIGlmIG5vdCBCc3ROb2RlLm5vZGVfZXF1YWxzKGFycjFbaV0sIGFycjJbaV0pOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDMsIDQsIDJdOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>postorder</text>
       </register>
     </registers>
     <search>
