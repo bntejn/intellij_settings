@@ -51,11 +51,11 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068044866">
-        <mark key="]" line="97" column="36" />
-        <mark key="^" line="97" column="35" />
-        <mark key="." line="97" column="36" />
-        <mark key="[" line="97" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068242917">
+        <mark key="]" line="97" column="57" />
+        <mark key="^" line="97" column="57" />
+        <mark key="." line="97" column="57" />
+        <mark key="[" line="97" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/datetime_exercise" timestamp="1441066183305">
         <mark key="]" line="14" column="12" />
@@ -69,12 +69,12 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" timestamp="1441068076389">
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" timestamp="1441068820326">
         <mark key="'" line="48" column="16" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="[" line="9" column="0" />
+        <mark key="]" line="105" column="12" />
+        <mark key="^" line="105" column="12" />
+        <mark key="." line="105" column="12" />
+        <mark key="[" line="105" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="]" line="16" column="13" />
@@ -82,7 +82,7 @@
         <mark key="." line="16" column="13" />
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1440803547996">
+      <file name="/Python Console" timestamp="1441068825469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433849062687">
@@ -122,46 +122,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>isKey</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZWRlbHRhKCkK</text>
       </register>
       <register name="2" type="4">
-        <text>Exception</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgbm93ID49IHQxOgogICAgcHJpbnQoInQxIGlzIHBhc3QiKQplbHNlOgogICAgcHJpbnQoInQxIGlzIGZ1dHVyZSIpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text encoding="base64">bmcsIGluY3JlYXNlIDFzIGZvciB0aGUgbGF0dGVyIG1lc3NhZ2VzCiAgICAgICAgICAgIGlmIGR0IDw9IHNlbGYuX19wcmV2X2RhdGV0</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgS2FrYW9NZXNzYWdlOgogICAgIiIiCiAgICBBIGRhdGEgd3JhcHBlciBmb3IgYSBzaW5nbGUgS2FrYW8gbWVzc2FnZQogICAgIiIiCgogICAgZGF0ZXRpbWUgPSAwCiAgICBzZW5kZXIgPSAiIgogICAgbXNnID0gIiIKICAgIGlzTWUgPSBGYWxzZQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkYXRldGltZTogZGF0ZXRpbWUsIHNlbmRlcjogc3RyLCBtc2c6IHN0cik6CiAgICAgICAgIiIiCiAgICAgICAgOnBhcmFtIGRhdGV0aW1lOiBUaGUgZGF0ZSBhbmQgdGltZSB0aGF0IHRoaXMgbWVzc2FnZSB3YXMgc2VudAogICAgICAgIDpwYXJhbSBzZW5kZXI6IFRoZSBzZW5kZXIKICAgICAgICA6cGFyYW0gbXNnOiBUaGUgbWVzc2FnZSAoYm9keSkKICAgICAgICAiIiIKICAgICAgICBzZWxmLmRhdGV0aW1lID0gZGF0ZXRpbWUKICAgICAgICBzZWxmLnNlbmRlciA9IHNlbmRlcgogICAgICAgIHNlbGYubXNnID0gbXNnCiAgICAgICAgaWYgc2VuZGVyID09ICJZb3UiOgogICAgICAgICAgICBzZWxmLmlzTWUgPSBUcnVlCgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuICIlcywgJXM6ICVzIiAlIChzZWxmLmRhdGV0aW1lLl9fc3RyX18oKSwgc2VsZi5zZW5kZXIsIHNlbGYubXNnKQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0byBlbnN1cmUgbWVzc2FnZSBvcmRlcmluZywgaW5jcmVhc2UgMXMgZm9yIHRoZSBsYXR0ZXIgbWVzc2FnZXMKICAgICAgICAgICAgaWYgZHQgPD0gc2VsZi5fX3ByZXZfZGF0ZXRpbWU6CiAgICAgICAgICAgICAgICBkdCArPSB0aW1lZGVsdGEoMCwgKytzZWxmLl9fZGVsdGEsIDAsIDAsIDAsIDAsIDApCiAgICAgICAgICAgIHNlbGYuX19wcmV2X2RhdGV0aW1lID0gZHQK</text>
       </register>
-      <register name="4" type="4">
-        <text>:</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIF9fbXNnX2xpc3QgPSBbXQo=</text>
+      <register name="9" type="4">
+        <text>+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmludEFsbChzZWxmKToKICAgICAgICBmb3IgbXNnIGluIHNlbGYuX19tc2dfbGlzdDoKICAgICAgICAgICAgcHJpbnQobXNnKQo=</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
     </registers>
     <search>
