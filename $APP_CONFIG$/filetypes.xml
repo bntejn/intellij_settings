@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="pyhash.py" type="PLAIN_TEXT" />
+      <mapping pattern="mytodoist" type="Python" />
       <mapping pattern="datetime_exercise" type="Python" />
     </extensionMap>
   </component>
