@@ -40,12 +40,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445319191988">
-        <mark key="'" line="9" column="23" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445320953597">
+        <mark key="'" line="73" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -162,55 +162,61 @@
       <jump line="123" column="33" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="63" column="21" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="9" column="23" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="69" column="19" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="12" column="4" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="13" column="21" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="14" column="11" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="15" column="35" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="73" column="15" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Added</text>
+        <text>api.commit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9qX25hbWVfdG9faWRfZGljW3BbJ25hbWUnXV0gPSBpbnQocFsnaWQnXSkK</text>
       </register>
       <register name="1" type="4">
-        <text>4</text>
+        <text>t</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>T</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIG5vX3ByaW9fZmxhZzoK</text>
       </register>
-      <register name="7" type="4">
-        <text>+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlbW92ZV9wcmVmaXhlZF9pdGVtcyhpdGVtcykK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>api</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Added</last-search>
+      <last-search>api.commit</last-search>
       <last-offset />
-      <last-pattern>Added</last-pattern>
+      <last-pattern>api.commit</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>1</last-dir>
@@ -218,8 +224,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry>self</entry>
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>root.insert</entry>
         <entry encoding="base64">XDxCc3ROb2RlXD4=</entry>
@@ -238,6 +242,8 @@
         <entry>h</entry>
         <entry>msg</entry>
         <entry>Added</entry>
+        <entry>commit</entry>
+        <entry>api.commit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/__right/right</entry>
