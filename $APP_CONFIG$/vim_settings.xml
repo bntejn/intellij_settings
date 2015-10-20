@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" timestamp="1445359257371">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440980393669">
         <mark key="'" line="28" column="42" />
         <mark key="[" line="63" column="0" />
@@ -19,7 +26,6 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/managers/projects.py" timestamp="1445301202571" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/datetime_exercise" timestamp="1441066183305">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -50,7 +56,6 @@
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/managers/generic.py" timestamp="1445301066961" />
       <file name="/" timestamp="1433836638748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,7 +65,6 @@
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/managers/items.py" timestamp="1445313272606" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" timestamp="1441068820326">
         <mark key="'" line="48" column="16" />
         <mark key="[" line="105" column="13" />
@@ -68,7 +72,7 @@
         <mark key="^" line="105" column="12" />
         <mark key="." line="105" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/api.py" timestamp="1445314352326">
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/api.py" timestamp="1445323438587">
         <mark key="[" line="72" column="30" />
         <mark key="]" line="72" column="31" />
         <mark key="^" line="72" column="31" />
@@ -168,55 +172,61 @@
       <jump line="14" column="11" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="15" column="35" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="73" column="15" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="14" column="12" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
+      <jump line="15" column="28" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
+      <jump line="16" column="11" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
+      <jump line="17" column="35" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZWRfbGlzdCA9IFtdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>api.commit()</text>
       </register>
       <register name="/" type="4">
-        <text>api.commit</text>
+        <text>Added</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qX25hbWVfdG9faWRfZGljW3BbJ25hbWUnXV0gPSBpbnQocFsnaWQnXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndXNhZ2U6ICQgbXl0b2RvaXN0LnB5IHBhc3N3b3JkJykK</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZWRfbGlzdCA9IFtdCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlZF9saXN0LmFwcGVuZChmb3VuZF9pdGVtWydjb250ZW50J10pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>T</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyAgICBpZiBhcGkuY29tbWl0KCk6CiMgICAgICAgIHByaW50KCdEZWxldGVkIGl0ZW1zOiAnICsgc3RyKGRlbGV0ZWRfbGlzdCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>api.commit()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vX3ByaW9fZmxhZzoK</text>
+      <register name="6" type="4">
+        <text encoding="base64">YW4g</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZV9wcmVmaXhlZF9pdGVtcyhpdGVtcykK</text>
+      <register name="7" type="4">
+        <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>api</text>
+        <text>content</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>api.commit</last-search>
+      <last-search>Added</last-search>
       <last-offset />
-      <last-pattern>api.commit</last-pattern>
+      <last-pattern>Added</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>1</last-dir>
@@ -224,7 +234,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>root.insert</entry>
         <entry encoding="base64">XDxCc3ROb2RlXD4=</entry>
         <entry>BstNode</entry>
@@ -240,10 +249,11 @@
         <entry>print item</entry>
         <entry>P</entry>
         <entry>h</entry>
-        <entry>msg</entry>
-        <entry>Added</entry>
-        <entry>commit</entry>
         <entry>api.commit</entry>
+        <entry>msg</entry>
+        <entry>Deleted</entry>
+        <entry>commit</entry>
+        <entry>Added</entry>
       </history-search>
       <history-cmd>
         <entry>%s/__right/right</entry>
