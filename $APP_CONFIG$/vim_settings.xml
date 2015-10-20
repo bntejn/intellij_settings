@@ -13,13 +13,20 @@
       <file name="/Python Console" timestamp="1441068825469">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/mytodoist" timestamp="1445299445527">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/managers/projects.py" timestamp="1445301202571" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/datetime_exercise" timestamp="1441066183305">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1441067844293">
+      <file name="/a.dummy" timestamp="1445301521297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
@@ -33,9 +40,17 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445313484263">
+        <mark key="'" line="31" column="25" />
+        <mark key="[" line="96" column="35" />
+        <mark key="]" line="99" column="11" />
+        <mark key="." line="99" column="11" />
+        <mark key="^" line="99" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/managers/generic.py" timestamp="1445301066961" />
       <file name="/" timestamp="1433836638748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,6 +60,7 @@
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/managers/items.py" timestamp="1445313272606" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" timestamp="1441068820326">
         <mark key="'" line="48" column="16" />
         <mark key="[" line="105" column="13" />
@@ -52,6 +68,7 @@
         <mark key="^" line="105" column="12" />
         <mark key="." line="105" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/api.py" timestamp="1445300886417" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068242917">
         <mark key="[" line="97" column="55" />
         <mark key="]" line="97" column="57" />
@@ -119,64 +136,63 @@
       <jump line="13" column="22" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
       <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
       <jump line="22" column="16" filename="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" />
+      <jump line="32" column="25" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>isKey</text>
+        <text encoding="base64">XDx0aW1lX3N0clw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgbm93ID49IHQxOgogICAgcHJpbnQoInQxIGlzIHBhc3QiKQplbHNlOgogICAgcHJpbnQoInQxIGlzIGZ1dHVyZSIpCg==</text>
+        <text encoding="base64">ICAgIG1hcmtlZCA9IGdldF9tYXJrZWRfaXRlbXMoaXRlbXMpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIF0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByb2plY3RzWwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZWRlbHRhKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="4" type="4">
+        <text>None</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0byBlbnN1cmUgbWVzc2FnZSBvcmRlcmluZywgaW5jcmVhc2UgMXMgZm9yIHRoZSBsYXR0ZXIgbWVzc2FnZXMKICAgICAgICAgICAgaWYgZHQgPD0gc2VsZi5fX3ByZXZfZGF0ZXRpbWU6CiAgICAgICAgICAgICAgICBkdCArPSB0aW1lZGVsdGEoMCwgKytzZWxmLl9fZGVsdGEsIDAsIDAsIDAsIDAsIDApCiAgICAgICAgICAgIHNlbGYuX19wcmV2X2RhdGV0aW1lID0gZHQK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Q2Fubm90IA==</text>
       </register>
-      <register name="6" type="4">
-        <text />
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bmcsIGluY3JlYXNlIDFzIGZvciB0aGUgbGF0dGVyIG1lc3NhZ2VzCiAgICAgICAgICAgIGlmIGR0IDw9IHNlbGYuX19wcmV2X2RhdGV0</text>
+        <text>Exception</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text encoding="base64">Y2F0Y2gg</text>
       </register>
       <register name="9" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isKey</last-search>
+      <last-search encoding="base64">XDx0aW1lX3N0clw+</last-search>
       <last-offset />
-      <last-pattern>isKey</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lX3N0clw+</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>~= None</entry>
-        <entry>\!\= None</entry>
         <entry>!=</entry>
         <entry>__left</entry>
         <entry>__right</entry>
@@ -195,9 +211,10 @@
         <entry encoding="base64">XDxCc3ROb2RlXD4=</entry>
         <entry>BstNode</entry>
         <entry>isKey</entry>
+        <entry encoding="base64">XDw9XD4=</entry>
+        <entry encoding="base64">XDx0aW1lX3N0clw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/__left/left</entry>
         <entry>%s/__right/right</entry>
         <entry>/__str</entry>
         <entry>999</entry>
@@ -213,9 +230,10 @@
         <entry>211</entry>
         <entry>102</entry>
         <entry>.,.+3w</entry>
-        <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,.+7w</entry>
+        <entry encoding="base64">JzwsJz4x</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
