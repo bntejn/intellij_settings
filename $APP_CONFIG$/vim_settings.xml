@@ -40,12 +40,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445313484263">
-        <mark key="'" line="31" column="25" />
-        <mark key="[" line="96" column="35" />
-        <mark key="]" line="99" column="11" />
-        <mark key="." line="99" column="11" />
-        <mark key="^" line="99" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445315565137">
+        <mark key="'" line="76" column="45" />
+        <mark key="[" line="113" column="27" />
+        <mark key="]" line="113" column="25" />
+        <mark key="." line="113" column="25" />
+        <mark key="^" line="113" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -68,7 +68,12 @@
         <mark key="^" line="105" column="12" />
         <mark key="." line="105" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/api.py" timestamp="1445300886417" />
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/todoist/api.py" timestamp="1445314352326">
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="72" column="31" />
+        <mark key="^" line="72" column="31" />
+        <mark key="." line="72" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068242917">
         <mark key="[" line="97" column="55" />
         <mark key="]" line="97" column="57" />
@@ -137,65 +142,68 @@
       <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
       <jump line="22" column="16" filename="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" />
       <jump line="32" column="25" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="110" column="7" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="17" column="19" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="28" column="11" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="29" column="15" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="74" column="32" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="76" column="45" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lX3N0clw+</text>
+        <text>-1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hcmtlZCA9IGdldF9tYXJrZWRfaXRlbXMoaXRlbXMpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RzWwo=</text>
+      <register name="2" type="4">
+        <text>-</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>]</text>
       </register>
       <register name="4" type="4">
-        <text>None</text>
+        <text>[</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Q2Fubm90IA==</text>
+        <text>'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      <register name="6" type="4">
+        <text>'</text>
       </register>
       <register name="7" type="4">
-        <text>Exception</text>
+        <text>error_code</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y2F0Y2gg</text>
+        <text encoding="base64">JyA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lX3N0clw+</last-search>
+      <last-search>-1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lX3N0clw+</last-pattern>
+      <last-pattern>-1</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>!=</entry>
-        <entry>__left</entry>
-        <entry>__right</entry>
         <entry encoding="base64">XDxjdXJOb2RlXD4=</entry>
         <entry>__str</entry>
         <entry encoding="base64">XDxlbGlmXD4=</entry>
@@ -213,6 +221,9 @@
         <entry>isKey</entry>
         <entry encoding="base64">XDw9XD4=</entry>
         <entry encoding="base64">XDx0aW1lX3N0clw+</entry>
+        <entry>None</entry>
+        <entry>0</entry>
+        <entry>-1</entry>
       </history-search>
       <history-cmd>
         <entry>%s/__right/right</entry>
