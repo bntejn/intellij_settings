@@ -40,12 +40,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445315565137">
-        <mark key="'" line="76" column="45" />
-        <mark key="[" line="113" column="27" />
-        <mark key="]" line="113" column="25" />
-        <mark key="." line="113" column="25" />
-        <mark key="^" line="113" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445317409796">
+        <mark key="'" line="95" column="25" />
+        <mark key="[" line="84" column="70" />
+        <mark key="]" line="84" column="70" />
+        <mark key="." line="84" column="70" />
+        <mark key="^" line="84" column="70" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -148,55 +148,61 @@
       <jump line="29" column="15" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="74" column="32" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="76" column="45" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="107" column="45" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="8" column="15" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="7" column="14" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="40" column="48" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="87" column="47" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
+      <jump line="95" column="25" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>-1</text>
+        <text>Estimated</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hcmtlZCA9IGdldF9tYXJrZWRfaXRlbXMoaXRlbXMpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>[</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>:</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>3</text>
       </register>
       <register name="7" type="4">
-        <text>error_code</text>
+        <text>inutes</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JyA=</text>
+        <text encoding="base64">b3VycyA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>\</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-1</last-search>
+      <last-search>Estimated</last-search>
       <last-offset />
-      <last-pattern>-1</last-pattern>
+      <last-pattern>Estimated</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>1</last-dir>
@@ -204,9 +210,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJOb2RlXD4=</entry>
-        <entry>__str</entry>
-        <entry encoding="base64">XDxlbGlmXD4=</entry>
         <entry>bst</entry>
         <entry>parent</entry>
         <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
@@ -224,6 +227,9 @@
         <entry>None</entry>
         <entry>0</entry>
         <entry>-1</entry>
+        <entry>dict</entry>
+        <entry>Added</entry>
+        <entry>Estimated</entry>
       </history-search>
       <history-cmd>
         <entry>%s/__right/right</entry>
