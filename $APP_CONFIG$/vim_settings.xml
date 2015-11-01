@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1445625150539">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" timestamp="1445359257371">
         <mark key="'" line="70" column="4" />
         <mark key="[" line="99" column="0" />
@@ -20,7 +17,46 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1441068825469">
+      <file name="/Python Console" timestamp="1446408620570">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/income.csv" timestamp="1446405063416" />
+      <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" timestamp="1446405753402">
+        <mark key="'" line="84" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445320953597">
+        <mark key="'" line="73" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068242917">
+        <mark key="[" line="97" column="55" />
+        <mark key="]" line="97" column="57" />
+        <mark key="^" line="97" column="57" />
+        <mark key="." line="97" column="57" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1440779661794">
+        <mark key="'" line="215" column="8" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="138" column="26" />
+        <mark key="^" line="242" column="8" />
+        <mark key="." line="242" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1445625150539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mytodoist/mytodoist" timestamp="1445299445527">
@@ -29,15 +65,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/income.csv" timestamp="1446405063416" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/datetime_exercise" timestamp="1441066183305">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
-      </file>
-      <file name="/a.dummy" timestamp="1445321011162">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="[" line="2" column="26" />
@@ -50,18 +82,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445320953597">
-        <mark key="'" line="73" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446405181612">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446409439330">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -88,29 +113,11 @@
         <mark key="^" line="72" column="31" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068242917">
-        <mark key="[" line="97" column="55" />
-        <mark key="]" line="97" column="57" />
-        <mark key="^" line="97" column="57" />
-        <mark key="." line="97" column="57" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="13" />
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pyhash/pyhash.py" timestamp="1439434681671">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" timestamp="1433835233862">
         <mark key="'" line="0" column="26" />
@@ -118,13 +125,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1440779661794">
-        <mark key="'" line="215" column="8" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="138" column="26" />
-        <mark key="^" line="242" column="8" />
-        <mark key="." line="242" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -188,55 +188,59 @@
       <jump line="16" column="11" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
       <jump line="17" column="35" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
       <jump line="70" column="4" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" />
+      <jump line="4" column="0" filename="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" />
+      <jump line="6" column="45" filename="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" />
+      <jump line="17" column="33" filename="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" />
+      <jump line="84" column="22" filename="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50LmV4cGVuc2VzCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
-        <text>Added</text>
+        <text>reader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgndXNhZ2U6ICQgbXl0b2RvaXN0LnB5IHBhc3N3b3JkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50LmV4cGVuc2VzCgo=</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>self</text>
       </register>
-      <register name="3" type="4">
-        <text>[</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBxdWVyeV9kYXRlKHNlbGYsIGRhdGVfZnJvbTogZGF0ZSwgZGF0ZV90bzogZGF0ZSk6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBkYXRlX3RvID09IE5vbmU6CiAgICAgICAgICAgIGRhdGVfdG8gPSBkYXRlX2Zyb20K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLCAnLmpvaW4ocm93KSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="6" type="4">
+        <text>:</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aWYK</text>
+      <register name="7" type="4">
+        <text>Element</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBhcGkuaXRlbXMuYWRkKCJteXRhc2siKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQoK</text>
+      <register name="9" type="4">
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Added</last-search>
+      <last-search>reader</last-search>
       <last-offset />
-      <last-pattern>Added</last-pattern>
+      <last-pattern>reader</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>1</last-dir>
@@ -244,7 +248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>root.insert</entry>
         <entry encoding="base64">XDxCc3ROb2RlXD4=</entry>
         <entry>BstNode</entry>
         <entry>isKey</entry>
@@ -264,6 +267,7 @@
         <entry>Deleted</entry>
         <entry>commit</entry>
         <entry>Added</entry>
+        <entry>reader</entry>
       </history-search>
       <history-cmd>
         <entry>/__str</entry>
