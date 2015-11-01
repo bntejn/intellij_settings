@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1445625150539">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" timestamp="1445359257371">
         <mark key="'" line="70" column="4" />
         <mark key="[" line="99" column="0" />
@@ -26,6 +29,7 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/income.csv" timestamp="1446405063416" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/datetime_exercise" timestamp="1441066183305">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -52,6 +56,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446405181612">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -181,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZWRfbGlzdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb3cpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>api.commit()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Added</text>
@@ -193,31 +203,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgndXNhZ2U6ICQgbXl0b2RvaXN0LnB5IHBhc3N3b3JkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZWRfbGlzdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb3cpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlZF9saXN0LmFwcGVuZChmb3VuZF9pdGVtWydjb250ZW50J10pCg==</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAgICBpZiBhcGkuY29tbWl0KCk6CiMgICAgICAgIHByaW50KCdEZWxldGVkIGl0ZW1zOiAnICsgc3RyKGRlbGV0ZWRfbGlzdCkpCg==</text>
+      <register name="3" type="4">
+        <text>[</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>api.commit()</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">YW4g</text>
-      </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
         <text>]</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnLCAnLmpvaW4ocm93KSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>content</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aWYK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBhcGkuaXRlbXMuYWRkKCJteXRhc2siKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -256,9 +266,7 @@
         <entry>Added</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/__right/right</entry>
         <entry>/__str</entry>
-        <entry>999</entry>
         <entry>%s/bst/  bst/gc</entry>
         <entry>210</entry>
         <entry>%s/self/node/gc</entry>
@@ -275,6 +283,8 @@
         <entry>.,.+7w</entry>
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>1</entry>
+        <entry>99</entry>
+        <entry>999</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
