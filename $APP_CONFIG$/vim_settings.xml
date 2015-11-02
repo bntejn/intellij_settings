@@ -20,7 +20,7 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1446408620570">
+      <file name="/Python Console" timestamp="1446441675088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mytodoist/mytodoist" timestamp="1445299445527">
@@ -30,6 +30,9 @@
         <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/incomeok/income.csv" timestamp="1446438618766" />
+      <file name="/fragment.py" timestamp="1446441626857">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/datetime_exercise" timestamp="1441066183305">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -57,12 +60,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446439648263">
-        <mark key="'" line="23" column="27" />
-        <mark key="[" line="67" column="52" />
-        <mark key="]" line="67" column="54" />
-        <mark key="^" line="67" column="54" />
-        <mark key="." line="67" column="54" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446442380085">
+        <mark key="'" line="22" column="27" />
+        <mark key="[" line="133" column="20" />
+        <mark key="]" line="133" column="20" />
+        <mark key="^" line="133" column="20" />
+        <mark key="." line="133" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -197,43 +200,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>itemgetter</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>itemgetter</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX3NvcnQoKQo=</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkID0gZXhwZW5zZS5hY2NlcHQoQ2F0ZWdvcnlWaXNpdG9yKCdSZWxheGF0aW9uJykpIFwKICAgICAgICAuYWNjZXB0KERhdGVWaXNpdG9yKGRhdGUoMjAxNSwgMTAsIDEpLCBkYXRlKDIwMTUsIDEwLCAzMSkpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>itemgetter</text>
-      </register>
-      <register name="2" type="4">
-        <text>amt</text>
-      </register>
-      <register name="3" type="4">
-        <text>2</text>
-      </register>
-      <register name="4" type="4">
-        <text>date</text>
-      </register>
-      <register name="5" type="4">
         <text>.</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+      </register>
+      <register name="3" type="4">
+        <text>.</text>
+      </register>
+      <register name="4" type="4">
+        <text>math</text>
+      </register>
+      <register name="5" type="4">
+        <text>ceil</text>
+      </register>
       <register name="6" type="4">
-        <text>ExpenseEntry</text>
+        <text>ceil</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">bWF0aCA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2NvbXBhcmVfZGF0ZShzZWxmLCBlZTE6IEV4cGVuc2VFbnRyeSwgZWUyOiBFeHBlbnNlRW50cnkpOgogICAgICAgIHJldHVybiAoZWUxLmRhdGUgPCBlZTIuZGF0ZSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -287,10 +290,10 @@
         <entry>.,.+3w</entry>
         <entry>.,.+7w</entry>
         <entry encoding="base64">JzwsJz4x</entry>
-        <entry>1</entry>
         <entry>99</entry>
         <entry>999</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
