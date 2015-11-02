@@ -23,6 +23,9 @@
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1446497966217">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" timestamp="1446405753402">
         <mark key="'" line="84" column="22" />
       </file>
@@ -58,7 +61,7 @@
         <mark key="^" line="242" column="8" />
         <mark key="." line="242" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1445625150539">
+      <file name="/Dummy.txt" timestamp="1446497966199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mytodoist/mytodoist" timestamp="1445299445527">
@@ -79,17 +82,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" timestamp="1433849062687">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446488258617">
-        <mark key="'" line="126" column="32" />
-        <mark key="[" line="124" column="38" />
-        <mark key="]" line="124" column="41" />
-        <mark key="^" line="124" column="41" />
-        <mark key="." line="124" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446497934275">
+        <mark key="'" line="119" column="32" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/unittest.py" timestamp="1432881118595">
         <mark key="[" line="12" column="24" />
@@ -201,11 +199,11 @@
       <jump line="126" column="32" filename="$USER_HOME$/PycharmProjects/incomeok/incomeok" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Snacks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Snacks</text>
+        <text>ExpenseEntry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRzXD4=</text>
@@ -213,32 +211,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdlZWtseV9idWNrZXQgPSBbW11dCgogICAgZGVmIHZpc2l0KHNlbGYsIGVsZW1lbnQ6IEV4cGVuc2UpOgogICAgICAgIG1pbl9kYXRlID0gZWxlbWVudC5leHBlbnNlc1swXS5kYXRlCiAgICAgICAgbWF4X2RhdGUgPSBlbGVtZW50LmV4cGVuc2VzW2VsZW1lbnQuZXhwZW5zZXMuX19sZW5fXygpIC0gMV0uZGF0ZQogICAgICAgIGJfaW5kID0gMCAgIyBidWNrZXQgaW5kZXgKICAgICAgICBwcmV2X2RhdGUgPSBtaW5fZGF0ZQogICAgICAgIGZvciBlIGluIGVsZW1lbnQuZXhwZW5zZXM6CiAgICAgICAgICAgIGlmIHByZXZfZGF0ZS53ZWVrZGF5KCkgPT0gNiBhbmQgZS5kYXRlLndlZWtkYXkoKSA9PSAwOgogICAgICAgICAgICAgICAgc2VsZi53ZWVrbHlfYnVja2V0LmFwcGVuZChbXSkKICAgICAgICAgICAgICAgIGJfaW5kICs9IDEKICAgICAgICAgICAgc2VsZi53ZWVrbHlfYnVja2V0W2JfaW5kXS5hcHBlbmQoZSkKICAgICAgICAgICAgcHJldl9kYXRlID0gZS5kYXRlCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgd2Vla2x5X3JlcG9ydChzZWxmKSAtPiBbV2Vla2x5UmVwb3J0XToKICAgICAgICB3ZWVrcyA9IFtdCiAgICAgICAgZm9yIHdlZWsgaW4gc2VsZi53ZWVrbHlfYnVja2V0OgogICAgICAgICAgICB3ZWVrcy5hcHBlbmQoV2Vla2x5UmVwb3J0KHdlZWspKQogICAgICAgIHJldHVybiB3ZWVrcwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Snacks</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Snacks</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxzdCA9IFtdCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>laxation</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgRXhwZW5zZSgpOgo=</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>ExpenseEntry</text>
       </register>
       <register name="5" type="4">
-        <text>R</text>
+        <text>:</text>
       </register>
-      <register name="6" type="4">
-        <text>Relaxation</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Relaxation</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgRXhwZW5zZQo=</text>
       </register>
       <register name="8" type="4">
-        <text>Relaxation</text>
+        <text>Gift</text>
       </register>
       <register name="9" type="4">
-        <text>Grocery</text>
+        <text>Snacks</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
