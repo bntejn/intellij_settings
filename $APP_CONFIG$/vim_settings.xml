@@ -123,12 +123,12 @@
         <mark key="^" line="72" column="31" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446526658834">
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446577808457">
         <mark key="'" line="49" column="18" />
-        <mark key="[" line="61" column="50" />
-        <mark key="]" line="61" column="46" />
-        <mark key="." line="61" column="46" />
-        <mark key="^" line="61" column="46" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="42" />
+        <mark key="^" line="62" column="42" />
+        <mark key="." line="62" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -218,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sum</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>sum</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW5kYXRlXD4=</text>
@@ -230,31 +230,31 @@
         <text encoding="base64">ICAgIG1pbmRhdGUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZVwKICAgICAgICAobmRmLmhlYWQoMSlbJ0RhdGUnXS52YWx1ZXNbMF0sICclWS4lbS4lZCcpLmRhdGUoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>sum</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>df</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>dt</text>
       </register>
       <register name="4" type="4">
-        <text>self</text>
+        <text>mindate</text>
       </register>
-      <register name="5" type="4">
-        <text>(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGQK</text>
       </register>
       <register name="6" type="4">
-        <text>print</text>
+        <text>sum</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>df</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="9" type="4">
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
