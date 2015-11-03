@@ -123,12 +123,12 @@
         <mark key="^" line="72" column="31" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446577808457">
-        <mark key="'" line="49" column="18" />
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="62" column="42" />
-        <mark key="^" line="62" column="42" />
-        <mark key="." line="62" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446578819672">
+        <mark key="'" line="65" column="40" />
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="67" column="14" />
+        <mark key="^" line="67" column="14" />
+        <mark key="." line="67" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -215,46 +215,47 @@
       <jump line="126" column="32" filename="$USER_HOME$/PycharmProjects/incomeok/incomeok" />
       <jump line="36" column="4" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="48" column="18" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="64" column="40" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBidWNrZXRzLmFwcGVuZCh7J2VuZCc6IG1vbmRheSArIGR0LnRpbWVkZWx0YSg2KX0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW5kYXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1pbmRhdGUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZVwKICAgICAgICAobmRmLmhlYWQoMSlbJ0RhdGUnXS52YWx1ZXNbMF0sICclWS4lbS4lZCcpLmRhdGUoKQo=</text>
+        <text encoding="base64">ICAgIGJ1Y2tldHMuYXBwZW5kKHsnc3RhcnQnOiBzdGFydH0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBidWNrZXRzLmFwcGVuZCh7J2VuZCc6IG1vbmRheSArIGR0LnRpbWVkZWx0YSg2KX0pCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text>dt</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>mindate</text>
+        <text>:</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGQK</text>
+      <register name="5" type="4">
+        <text>{</text>
       </register>
       <register name="6" type="4">
-        <text>sum</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>df</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
+      <register name="8" type="4">
+        <text>append</text>
+      </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
