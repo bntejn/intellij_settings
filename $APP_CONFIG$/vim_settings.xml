@@ -23,7 +23,7 @@
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1446499354606">
+      <file name="/a.dummy" timestamp="1446514999010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" timestamp="1446405753402">
@@ -35,6 +35,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/ploty.py" timestamp="1446514439651">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068242917">
         <mark key="[" line="97" column="55" />
@@ -61,6 +67,12 @@
         <mark key="^" line="242" column="8" />
         <mark key="." line="242" column="8" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plotly.py" timestamp="1446514965571">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mytodoist/mytodoist" timestamp="1445299445527">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="13" />
@@ -79,7 +91,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446513437590">
+      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446514365503">
         <mark key="'" line="110" column="32" />
         <mark key="[" line="68" column="50" />
         <mark key="]" line="69" column="21" />
@@ -110,6 +122,12 @@
         <mark key="]" line="72" column="31" />
         <mark key="^" line="72" column="31" />
         <mark key="." line="72" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446518237942">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -196,11 +214,11 @@
       <jump line="126" column="32" filename="$USER_HOME$/PycharmProjects/incomeok/incomeok" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNvcnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>EXTRACT_CAT</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBvcnRzXD4=</text>
@@ -208,33 +226,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdlZWtseV9idWNrZXQgPSBbW11dCgogICAgZGVmIHZpc2l0KHNlbGYsIGVsZW1lbnQ6IEV4cGVuc2UpOgogICAgICAgIG1pbl9kYXRlID0gZWxlbWVudC5leHBlbnNlc1swXS5kYXRlCiAgICAgICAgbWF4X2RhdGUgPSBlbGVtZW50LmV4cGVuc2VzW2VsZW1lbnQuZXhwZW5zZXMuX19sZW5fXygpIC0gMV0uZGF0ZQogICAgICAgIGJfaW5kID0gMCAgIyBidWNrZXQgaW5kZXgKICAgICAgICBwcmV2X2RhdGUgPSBtaW5fZGF0ZQogICAgICAgIGZvciBlIGluIGVsZW1lbnQuZXhwZW5zZXM6CiAgICAgICAgICAgIGlmIHByZXZfZGF0ZS53ZWVrZGF5KCkgPT0gNiBhbmQgZS5kYXRlLndlZWtkYXkoKSA9PSAwOgogICAgICAgICAgICAgICAgc2VsZi53ZWVrbHlfYnVja2V0LmFwcGVuZChbXSkKICAgICAgICAgICAgICAgIGJfaW5kICs9IDEKICAgICAgICAgICAgc2VsZi53ZWVrbHlfYnVja2V0W2JfaW5kXS5hcHBlbmQoZSkKICAgICAgICAgICAgcHJldl9kYXRlID0gZS5kYXRlCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgd2Vla2x5X3JlcG9ydChzZWxmKSAtPiBbV2Vla2x5UmVwb3J0XToKICAgICAgICB3ZWVrcyA9IFtdCiAgICAgICAgZm9yIHdlZWsgaW4gc2VsZi53ZWVrbHlfYnVja2V0OgogICAgICAgICAgICB3ZWVrcy5hcHBlbmQoV2Vla2x5UmVwb3J0KHdlZWspKQogICAgICAgIHJldHVybiB3ZWVrcwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNvcnQoKQo=</text>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
       <register name="2" type="4">
-        <text>EXTRACT_CAT</text>
+        <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>Relaxation</text>
+        <text>incomecsv</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVuc2UucHJpbnQoKQo=</text>
+      <register name="4" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="4">
-        <text />
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoZXhwZW5zZXMpCg==</text>
       </register>
       <register name="6" type="4">
-        <text>ACT_CAT)
-    expense.print()</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>DataFrame</text>
       </register>
       <register name="9" type="4">
-        <text>return sorted(self.lst, ke</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
