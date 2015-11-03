@@ -123,12 +123,12 @@
         <mark key="^" line="72" column="31" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446526240574">
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446526658834">
         <mark key="'" line="49" column="18" />
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="22" />
-        <mark key="." line="44" column="22" />
-        <mark key="^" line="44" column="22" />
+        <mark key="[" line="61" column="50" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="46" />
+        <mark key="^" line="61" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -217,11 +217,11 @@
       <jump line="48" column="18" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>sum</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>sum</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW5kYXRlXD4=</text>
@@ -229,32 +229,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1pbmRhdGUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZVwKICAgICAgICAobmRmLmhlYWQoMSlbJ0RhdGUnXS52YWx1ZXNbMF0sICclWS4lbS4lZCcpLmRhdGUoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>sum</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtaW5kLnN0cmZ0aW1lKERGT1JNQVQpKQo=</text>
+      <register name="2" type="4">
+        <text>df</text>
       </register>
       <register name="3" type="4">
-        <text>and</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>datetime</text>
+        <text>self</text>
       </register>
       <register name="5" type="4">
-        <text>datetime</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>datetime</text>
+        <text>print</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGUK</text>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGR0LmRhdGUoMTk4OSwgMiwgMSkpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="9" type="4">
-        <text>atetime</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
