@@ -91,7 +91,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446514365503">
+      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1446522349255">
         <mark key="'" line="110" column="32" />
         <mark key="[" line="68" column="50" />
         <mark key="]" line="69" column="21" />
@@ -123,11 +123,12 @@
         <mark key="^" line="72" column="31" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446518237942">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446526240574">
+        <mark key="'" line="49" column="18" />
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="44" column="22" />
+        <mark key="." line="44" column="22" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -212,55 +213,57 @@
       <jump line="104" column="13" filename="$USER_HOME$/PycharmProjects/incomeok/incomeok" />
       <jump line="30" column="29" filename="$USER_HOME$/PycharmProjects/incomeok/incomeok" />
       <jump line="126" column="32" filename="$USER_HOME$/PycharmProjects/incomeok/incomeok" />
+      <jump line="36" column="4" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="48" column="18" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvcnRzXD4=</text>
+        <text encoding="base64">XDxtaW5kYXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdlZWtseV9idWNrZXQgPSBbW11dCgogICAgZGVmIHZpc2l0KHNlbGYsIGVsZW1lbnQ6IEV4cGVuc2UpOgogICAgICAgIG1pbl9kYXRlID0gZWxlbWVudC5leHBlbnNlc1swXS5kYXRlCiAgICAgICAgbWF4X2RhdGUgPSBlbGVtZW50LmV4cGVuc2VzW2VsZW1lbnQuZXhwZW5zZXMuX19sZW5fXygpIC0gMV0uZGF0ZQogICAgICAgIGJfaW5kID0gMCAgIyBidWNrZXQgaW5kZXgKICAgICAgICBwcmV2X2RhdGUgPSBtaW5fZGF0ZQogICAgICAgIGZvciBlIGluIGVsZW1lbnQuZXhwZW5zZXM6CiAgICAgICAgICAgIGlmIHByZXZfZGF0ZS53ZWVrZGF5KCkgPT0gNiBhbmQgZS5kYXRlLndlZWtkYXkoKSA9PSAwOgogICAgICAgICAgICAgICAgc2VsZi53ZWVrbHlfYnVja2V0LmFwcGVuZChbXSkKICAgICAgICAgICAgICAgIGJfaW5kICs9IDEKICAgICAgICAgICAgc2VsZi53ZWVrbHlfYnVja2V0W2JfaW5kXS5hcHBlbmQoZSkKICAgICAgICAgICAgcHJldl9kYXRlID0gZS5kYXRlCiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgd2Vla2x5X3JlcG9ydChzZWxmKSAtPiBbV2Vla2x5UmVwb3J0XToKICAgICAgICB3ZWVrcyA9IFtdCiAgICAgICAgZm9yIHdlZWsgaW4gc2VsZi53ZWVrbHlfYnVja2V0OgogICAgICAgICAgICB3ZWVrcy5hcHBlbmQoV2Vla2x5UmVwb3J0KHdlZWspKQogICAgICAgIHJldHVybiB3ZWVrcwo=</text>
+        <text encoding="base64">ICAgIG1pbmRhdGUgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZVwKICAgICAgICAobmRmLmhlYWQoMSlbJ0RhdGUnXS52YWx1ZXNbMF0sICclWS4lbS4lZCcpLmRhdGUoKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChtaW5kLnN0cmZ0aW1lKERGT1JNQVQpKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>incomecsv</text>
+        <text>and</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>datetime</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZXhwZW5zZXMpCg==</text>
+      <register name="5" type="4">
+        <text>datetime</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>datetime</text>
       </register>
-      <register name="7" type="4">
-        <text>(</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRhdGV0aW1lLmRhdGUK</text>
       </register>
-      <register name="8" type="4">
-        <text>DataFrame</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGR0LmRhdGUoMTk4OSwgMiwgMSkpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>atetime</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvcnRzXD4=</last-search>
+      <last-search encoding="base64">XDxtaW5kYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvcnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtaW5kYXRlXD4=</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>-1</last-dir>
@@ -268,7 +271,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isKey</entry>
         <entry encoding="base64">XDw9XD4=</entry>
         <entry encoding="base64">XDx0aW1lX3N0clw+</entry>
         <entry>None</entry>
@@ -288,6 +290,7 @@
         <entry>reader</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxyZXBvcnRzXD4=</entry>
+        <entry encoding="base64">XDxtaW5kYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/__str</entry>
@@ -305,10 +308,10 @@
         <entry>.,.+3w</entry>
         <entry>.,.+7w</entry>
         <entry encoding="base64">JzwsJz4x</entry>
-        <entry>99</entry>
         <entry>999</entry>
-        <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>99</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
