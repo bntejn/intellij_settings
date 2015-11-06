@@ -123,12 +123,18 @@
         <mark key="^" line="72" column="31" />
         <mark key="." line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446578819672">
-        <mark key="'" line="65" column="40" />
-        <mark key="[" line="66" column="45" />
-        <mark key="]" line="67" column="14" />
-        <mark key="^" line="67" column="14" />
-        <mark key="." line="67" column="14" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/test_plot.py" timestamp="1446777976878">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446778143671">
+        <mark key="'" line="62" column="15" />
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="57" column="27" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="57" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -216,63 +222,63 @@
       <jump line="36" column="4" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="48" column="18" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="64" column="40" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="59" column="15" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidWNrZXRzLmFwcGVuZCh7J2VuZCc6IG1vbmRheSArIGR0LnRpbWVkZWx0YSg2KX0pCg==</text>
+        <text encoding="base64">ICAgICMgICAgZGYgPSBzZWxlY3RfY2F0ZWdvcnkoZGYsIFsnQ2FmZSddKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">cm93IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaW5kYXRlXD4=</text>
+        <text>Bucket</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ1Y2tldHMuYXBwZW5kKHsnc3RhcnQnOiBzdGFydH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRmID0gcGxvdC5pbml0aWFsaXplKCdpbmNvbWUuY3N2JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWNrZXRzLmFwcGVuZCh7J2VuZCc6IG1vbmRheSArIGR0LnRpbWVkZWx0YSg2KX0pCg==</text>
+        <text encoding="base64">ICAgICMgICAgZGYgPSBzZWxlY3RfY2F0ZWdvcnkoZGYsIFsnQ2FmZSddKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRmID0gZXhjbHVkZV9jYXRlZ29yeShkZiwgWydIb21lJ10pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRmID0gZXhjbHVkZV9jYXRlZ29yeShkZiwgWydIb21lJ10pCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>:</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGRmWydDYXRlZ29yeSddKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text encoding="base64">cm93IA==</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>append</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>iterrows</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaW5kYXRlXD4=</last-search>
+      <last-search>Bucket</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaW5kYXRlXD4=</last-pattern>
+      <last-pattern>Bucket</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw9XD4=</entry>
         <entry encoding="base64">XDx0aW1lX3N0clw+</entry>
         <entry>None</entry>
         <entry>0</entry>
@@ -292,6 +298,7 @@
         <entry>sort</entry>
         <entry encoding="base64">XDxyZXBvcnRzXD4=</entry>
         <entry encoding="base64">XDxtaW5kYXRlXD4=</entry>
+        <entry>Bucket</entry>
       </history-search>
       <history-cmd>
         <entry>/__str</entry>
@@ -310,8 +317,8 @@
         <entry>.,.+7w</entry>
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>999</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>99</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
