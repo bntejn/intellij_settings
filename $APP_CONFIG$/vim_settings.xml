@@ -129,11 +129,11 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446962470147">
-        <mark key="[" line="99" column="34" />
-        <mark key="]" line="99" column="34" />
-        <mark key="." line="99" column="34" />
-        <mark key="^" line="99" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446963172864">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+        <mark key="^" line="78" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -246,43 +246,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">RklMRU5BTUUg</text>
+        <text>self</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RklMRU5BTUUg</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWx0ZXJfZXhwZW5zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZiA9IHNlbGYuZGYuc29ydF92YWx1ZXMoYnk9WydEYXRlJ10pCiAgICAgICAgICAgIHNlbGYuZHJvcF9jYXRlZ29yeShbJ0hvdXNlJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZiA9IHNlbGYuZGZbc2VsZi5kZltzZWxmLkNBVEVHT1JZXSAhPSBjXQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">RklMRU5BTUUg</text>
-      </register>
-      <register name="2" type="4">
-        <text>read_file</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRmID0gZGYubG9jW2RmWydBbW91bnQnXSA8IDBdCiAgICBkZiA9IGRmLnNvcnRfdmFsdWVzKGJ5PVsnRGF0ZSddKQogICAgZGYuZHJvcF9jYXRlZ29yeShbJ0hvdXNlJ10pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENBVEVHT1JZID0gJ0NhdGVnb3J5IGdyb3VwJyBpZiBncm91cCBlbHNlICdDYXRlZ29yeScK</text>
-      </register>
-      <register name="5" type="4">
-        <text>.</text>
-      </register>
-      <register name="6" type="4">
         <text>self</text>
       </register>
-      <register name="7" type="4">
-        <text>=</text>
+      <register name="2" type="4">
+        <text encoding="base64">cGxvdGFibGUg</text>
       </register>
-      <register name="8" type="4">
-        <text>None</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGxvdGFibGUK</text>
+      </register>
+      <register name="4" type="4">
+        <text>plotable</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBsb3RfZGYgPSBwZC5EYXRhRnJhbWUoKQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cGxvdGFibGUg</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHdlZWtseV9idWNrZXRzID0gZWRmLndlZWtseV9kYXRlX2J1Y2tldHMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZGYK</text>
+        <text encoding="base64">ICAgIHBsb3RhYmxlID0gcGQuRGF0YUZyYW1lKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
