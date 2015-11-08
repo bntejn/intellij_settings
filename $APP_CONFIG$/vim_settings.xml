@@ -23,7 +23,7 @@
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1446779914517">
+      <file name="/a.dummy" timestamp="1446941367775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" timestamp="1446405753402">
@@ -129,11 +129,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446788321116">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446942013406">
+        <mark key="'" line="127" column="30" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="107" column="39" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -232,70 +233,72 @@
       <jump line="123" column="23" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="126" column="20" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="132" column="24" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
-      <jump line="27" column="18" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="80" column="16" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="134" column="41" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="67" column="24" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="159" column="14" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="106" column="9" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="46" column="6" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="127" column="30" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRmID0gc2VsZWN0X2NhdGVnb3J5KGRmLCBbJ01lYWxzJywgJ1JlbGF4YXRpb24nLCAnQ2FmZScsICdhY2tzJ10pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBsb3RhYmxlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>plot</text>
+        <text encoding="base64">XDxCdWNrZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4PWRmWydGcm9tJ10udG9saXN0KCksCg==</text>
+        <text encoding="base64">ICAgIGNvbF9uYW1lID0gX0NfR1JQIGlmIGdyb3VwIGVsc2UgX0NBVAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRmID0gc2VsZWN0X2NhdGVnb3J5KGRmLCBbJ01lYWxzJywgJ1JlbGF4YXRpb24nLCAnQ2FmZScsICdhY2tzJ10pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHBsb3RhYmxlKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>Sn</text>
+        <text>f</text>
       </register>
       <register name="4" type="4">
-        <text>Grocery</text>
+        <text>d</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdnLmdncGxvdChkYXRhPWRmLCBhZXN0aGV0aWNzPWdnLmFlcyh4PSdoaScsIHk9J2hpaGknKSkK</text>
+      <register name="5" type="4">
+        <text>plotable</text>
       </register>
-      <register name="6" type="4">
-        <text>=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBsb3RhYmxlID0gcGxvdGFibGUuZmlsbG5hKDAuMCkKICAgIG1pZCA9IHBsb3RhYmxlWydGcm9tJ10KICAgIHBsb3RhYmxlLmRyb3AobGFiZWxzPVsnRnJvbSddLCBheGlzPTEsIGlucGxhY2U9VHJ1ZSkKICAgIHBsb3RhYmxlLmluc2VydCgwLCAnRnJvbScsIG1pZCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>y</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5kZiA9IGRmCg==</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text>plotable</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>plot</last-search>
+      <last-search encoding="base64">XDxCdWNrZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>plot</last-pattern>
+      <last-pattern encoding="base64">XDxCdWNrZXRcPg==</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>-1</entry>
-        <entry>dict</entry>
-        <entry>Estimated</entry>
-        <entry>print item</entry>
         <entry>P</entry>
         <entry>h</entry>
         <entry>api.commit</entry>
@@ -312,6 +315,10 @@
         <entry>append</entry>
         <entry>tonext</entry>
         <entry>plot</entry>
+        <entry>select_category</entry>
+        <entry>ALL_CATEGORY</entry>
+        <entry encoding="base64">XDxkcm9wX2NhdGVnb3J5XD4=</entry>
+        <entry encoding="base64">XDxCdWNrZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bst/  bst/gc</entry>
