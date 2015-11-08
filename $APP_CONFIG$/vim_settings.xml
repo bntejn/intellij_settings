@@ -23,9 +23,6 @@
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1446942436991">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" timestamp="1446405753402">
         <mark key="'" line="84" column="22" />
       </file>
@@ -129,12 +126,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446942778680">
-        <mark key="'" line="111" column="30" />
-        <mark key="[" line="122" column="4" />
-        <mark key="]" line="122" column="6" />
-        <mark key="." line="122" column="6" />
-        <mark key="^" line="122" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446948443125">
+        <mark key="'" line="110" column="30" />
+        <mark key="[" line="102" column="15" />
+        <mark key="]" line="102" column="10" />
+        <mark key="." line="102" column="10" />
+        <mark key="^" line="102" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -245,11 +242,11 @@
       <jump line="127" column="30" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZJTEVOQU1FID0gJ2luY29tZTIuY3N2Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>pdf</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>pdf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdWNrZXRcPg==</text>
@@ -257,32 +254,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbF9uYW1lID0gX0NfR1JQIGlmIGdyb3VwIGVsc2UgX0NBVAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEZJTEVOQU1FID0gJ2luY29tZTIuY3N2Jwo=</text>
+      <register name="1" type="4">
+        <text>pdf</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEV4cGVuc2VQbG90IGVwCg==</text>
+      <register name="2" type="4">
+        <text>pdf</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>self</text>
+        <text>=</text>
       </register>
       <register name="6" type="4">
-        <text>self</text>
+        <text encoding="base64">bWlkIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIERGT1JNQVQgPSAnJVkuJW0uJWQnCg==</text>
+      <register name="7" type="4">
+        <text>pdf</text>
       </register>
       <register name="8" type="4">
-        <text />
+        <text encoding="base64">cGRmIA==</text>
       </register>
       <register name="9" type="4">
-        <text>'</text>
+        <text>pdf</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
