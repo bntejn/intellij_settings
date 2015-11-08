@@ -23,6 +23,9 @@
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1446953890412">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" timestamp="1446405753402">
         <mark key="'" line="84" column="22" />
       </file>
@@ -126,12 +129,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446949185648">
-        <mark key="'" line="113" column="30" />
-        <mark key="[" line="115" column="33" />
-        <mark key="]" line="115" column="32" />
-        <mark key="." line="115" column="32" />
-        <mark key="^" line="115" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1446954133893">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="11" />
+        <mark key="^" line="54" column="11" />
+        <mark key="." line="54" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/test/bsttest.py" timestamp="1439861098111">
         <mark key="[" line="16" column="14" />
@@ -240,55 +243,56 @@
       <jump line="106" column="9" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="46" column="6" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="127" column="30" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>df</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>df</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCdWNrZXRcPg==</text>
+        <text encoding="base64">XDxmaWx0ZXJfZXhwZW5zZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbF9uYW1lID0gX0NfR1JQIGlmIGdyb3VwIGVsc2UgX0NBVAo=</text>
       </register>
       <register name="1" type="4">
-        <text>df</text>
+        <text>null</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>self</text>
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>DataFrame</text>
       </register>
       <register name="5" type="4">
-        <text>self</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>pd</text>
       </register>
       <register name="7" type="4">
-        <text>self</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">ZGYg</text>
       </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCdWNrZXRcPg==</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJfZXhwZW5zZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCdWNrZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWx0ZXJfZXhwZW5zZVw+</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>-1</last-dir>
@@ -296,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>P</entry>
         <entry>h</entry>
         <entry>api.commit</entry>
         <entry>msg</entry>
@@ -316,6 +319,7 @@
         <entry>ALL_CATEGORY</entry>
         <entry encoding="base64">XDxkcm9wX2NhdGVnb3J5XD4=</entry>
         <entry encoding="base64">XDxCdWNrZXRcPg==</entry>
+        <entry encoding="base64">XDxmaWx0ZXJfZXhwZW5zZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/bst/  bst/gc</entry>
