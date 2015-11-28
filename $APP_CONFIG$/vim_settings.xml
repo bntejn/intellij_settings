@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448749013690">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" timestamp="1445359257371">
         <mark key="'" line="70" column="4" />
         <mark key="[" line="99" column="0" />
@@ -17,14 +23,20 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1446485716646">
+      <file name="/Python Console" timestamp="1448746757901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1446961832412">
+      <file name="/a.dummy" timestamp="1448747068610">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/csv.py" timestamp="1446405753402">
         <mark key="'" line="84" column="22" />
@@ -41,6 +53,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/web_scraper.py" timestamp="1448747420154">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="84" column="26" />
+        <mark key="^" line="84" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" timestamp="1441068242917">
         <mark key="[" line="97" column="55" />
@@ -141,6 +159,17 @@
         <mark key="]" line="16" column="13" />
         <mark key="^" line="16" column="13" />
         <mark key="." line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/crawler/scraper-old.py" timestamp="1448745370868">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/twisted.py" timestamp="1448748810814">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="47" column="90" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" timestamp="1433835233862">
         <mark key="'" line="0" column="26" />
@@ -254,43 +283,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNvcnRfY29sdW1uKCkK</text>
+        <text encoding="base64">X19hdXRob3JfXyA9ICd0YWVqb29uJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY2F0IGluIHNldChzZWxmLmRmW0NBVEVHT1JZXS52YWx1ZXMudG9saXN0KCkpOgo=</text>
+        <text encoding="base64">ICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGNvbnRlbnQsICdseG1sJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNvcnRfY29sdW1uKCkK</text>
+        <text encoding="base64">X19hdXRob3JfXyA9ICd0YWVqb29uJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzKQo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
-      </register>
-      <register name="4" type="4">
-        <text>_</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>=</text>
+      <register name="4" type="4">
+        <text>:</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cyA=</text>
+      <register name="5" type="4">
+        <text>int</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzb3VwID0gQmVhdXRpZnVsU291cChyZXNwb25zZS5jb250ZW50LCAnbHhtbCcpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBiczQgaW1wb3J0IEJlYXV0aWZ1bFNvdXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRmKQo=</text>
+        <text encoding="base64">ZGVmIGFsZXhhX3RvcChuOiBpbnQpIC0+IFtdOgogICAgY3N2ZiA9IG9wZW4oJ3RvcC0xbS5jc3YnLCAncicpCiAgICByZWFkZXIgPSBjc3YucmVhZGVyKGNzdmYsIGRlbGltaXRlcj0nLCcpCiAgICBpID0gMAogICAgd2xpc3QgPSBbXSAgIyB3ZWJzaXRlIGxpc3QKICAgIGZvciByb3cgaW4gcmVhZGVyOgogICAgICAgIHdsaXN0LmFwcGVuZCgnaHR0cDovLycgKyByb3dbMV0pCiAgICAgICAgIyAgICAgICAgd2xpc3Rbcm93WzBdXSA9ICdodHRwOi8vJyArIHJvd1sxXQogICAgICAgIGkgKz0gMQogICAgICAgIGlmIGkgPj0gbjoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiB3bGlzdAoK</text>
       </register>
       <register name="9" type="4">
-        <text>ndf</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -329,7 +358,6 @@
         <entry>sort</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/bst/  bst/gc</entry>
         <entry>210</entry>
         <entry>%s/self/node/gc</entry>
         <entry>%s/self/node/c</entry>
@@ -345,8 +373,9 @@
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>999</entry>
         <entry>99</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>105</entry>
+        <entry>!pip3.4 install scrapy</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
