@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448869167133">
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-        <mark key="^" line="24" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448872653639">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="34" />
       </file>
       <file name="/start_script.py" timestamp="1448751145244">
         <mark key="[" line="0" column="0" />
@@ -183,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="20" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="156" column="7" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="150" column="4" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
@@ -283,13 +281,16 @@
       <jump line="58" column="22" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="89" column="13" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
       <jump line="93" column="8" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
+      <jump line="24" column="33" filename="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBzdG9yZSB0aGUgaW50ZXJzZWMK</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -297,32 +298,32 @@
       <register name="0" type="2">
         <text encoding="base64">IyAgICAgICAgICAgIHlpZWxkIFByb2R1Y3QodXJsPXJlc3BvbnNlLnVybCwgcmFuaz1zZWxmLnVybF9kaWNbcmVzcG9uc2UudXJsXSwgbGlua19yZWxzPXJlbHMpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>5</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBzdG9yZSB0aGUgaW50ZXJzZWMK</text>
       </register>
-      <register name="2" type="4">
-        <text>2</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS51cmwpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpICs9IDEK</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>3</text>
+        <text>=</text>
       </register>
-      <register name="6" type="4">
-        <text>1</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3bGlzdC5hcHBlbmQoJ2h0dHA6Ly8nICsgcm93WzFdKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>6</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjICAgICAgICB3bGlzdC5hcHBlbmQoJ2h0dHA6Ly8nICsgcm93WzFdKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1hdGNoZWQgPSBbe31dCg==</text>
       </register>
       <register name="9" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
