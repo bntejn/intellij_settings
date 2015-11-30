@@ -33,7 +33,7 @@
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1448747068610">
+      <file name="/a.dummy" timestamp="1448912295178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
@@ -58,7 +58,7 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/web_scraper/web_scraper.py" timestamp="1448747420154">
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/web_scraper.py" timestamp="1448912199612">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="41" />
         <mark key="." line="84" column="26" />
@@ -75,6 +75,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/alexa_crawler/web_scraper.py" timestamp="1448912281816">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/hello.py" timestamp="1432386696400">
         <mark key="[" line="0" column="22" />
