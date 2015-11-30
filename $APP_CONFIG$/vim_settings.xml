@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448845993923">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448847460039">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="43" column="15" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="43" column="15" />
       </file>
       <file name="/start_script.py" timestamp="1448751145244">
         <mark key="[" line="0" column="0" />
@@ -286,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVsc19zZXQpCg==</text>
+        <text encoding="base64">ICAgIHdyaXRlci53cml0ZXJvdygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>alternate</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -298,31 +298,31 @@
         <text encoding="base64">ICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGNvbnRlbnQsICdseG1sJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVsc19zZXQpCg==</text>
+        <text encoding="base64">ICAgIHdyaXRlci53cml0ZXJvdygpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luIScpCg==</text>
+      <register name="2" type="4">
+        <text>_</text>
       </register>
       <register name="3" type="4">
-        <text>alternate</text>
+        <text>_</text>
       </register>
       <register name="4" type="4">
-        <text>stylesheet</text>
+        <text encoding="base64">ICAgIGRlZiBfX3dyaXRlKHNlbGYsIHVybCwgcmVscyk6</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX3dyaXRlKHJlc3BvbnNlLnVybCwgcmVsc19zZXQpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+      <register name="6" type="4">
+        <text>url</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWxzX3NldCkK</text>
+      <register name="7" type="4">
+        <text>url</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{'url': url, 'rank': self.url_dic[url], 'link_rels': rels}</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3cml0ZXIud3JpdGVoZWFkZXIoKQogICAgICAgIHdyaXRlci53cml0ZXJvdyh7J3VybCc6IHVybCwgJ3JhbmsnOiBzZWxmLnVybF9kaWNbdXJsXSwgJ2xpbmtfcmVscyc6IHJlbHN9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
