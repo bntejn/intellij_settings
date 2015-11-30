@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448751223134">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448845993923">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="/start_script.py" timestamp="1448751145244">
         <mark key="[" line="0" column="0" />
@@ -285,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">X19hdXRob3JfXyA9ICd0YWVqb29uJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVsc19zZXQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>alternate</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -297,34 +298,34 @@
         <text encoding="base64">ICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGNvbnRlbnQsICdseG1sJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X19hdXRob3JfXyA9ICd0YWVqb29uJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVsc19zZXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2luIScpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3lzLnBhdGgucmVtb3ZlKCcvU3lzdGVtL0xpYnJhcnkvRnJhbWV3b3Jrcy9QeXRob24uZnJhbWV3b3JrL1ZlcnNpb25zLzIuNy9FeHRyYXMvbGliL3B5dGhvbicpCg==</text>
+      <register name="3" type="4">
+        <text>alternate</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">X19hdXRob3JfXyA9ICd0YWVqb29uJwo=</text>
+      <register name="4" type="4">
+        <text>stylesheet</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>:</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZWxzX3NldCkK</text>
       </register>
       <register name="8" type="4">
-        <text>int</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VwID0gQmVhdXRpZnVsU291cChyZXNwb25zZS5jb250ZW50LCAnbHhtbCcpCg==</text>
+      <register name="9" type="4">
+        <text>'</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -378,8 +379,8 @@
         <entry>105</entry>
         <entry>!pip3.4 install scrapy</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
