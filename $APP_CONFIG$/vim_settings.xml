@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448847460039">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="43" column="15" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="43" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448856375927">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="/start_script.py" timestamp="1448751145244">
         <mark key="[" line="0" column="0" />
@@ -285,11 +285,11 @@
       <jump line="93" column="8" filename="$USER_HOME$/PycharmProjects/incomeok/plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdyaXRlci53cml0ZXJvdygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -297,32 +297,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGNvbnRlbnQsICdseG1sJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHdyaXRlci53cml0ZXJvdygpCg==</text>
+      <register name="1" type="4">
+        <text>3</text>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiBfX3dyaXRlKHNlbGYsIHVybCwgcmVscyk6</text>
+        <text>0</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX3dyaXRlKHJlc3BvbnNlLnVybCwgcmVsc19zZXQpCg==</text>
+        <text encoding="base64">Y2xhc3MgUHJvZHVjdChzY3JhcHkuSXRlbSk6CiAgICB1cmwgPSBzY3JhcHkuRmllbGQoKQogICAgcmFuayA9IHNjcmFweS5GaWVsZCgpCiAgICBsaW5rX3JlbHMgPSBzY3JhcHkuRmllbGQoKQoK</text>
       </register>
       <register name="6" type="4">
-        <text>url</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="7" type="4">
-        <text>url</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>{'url': url, 'rank': self.url_dic[url], 'link_rels': rels}</text>
+        <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIud3JpdGVoZWFkZXIoKQogICAgICAgIHdyaXRlci53cml0ZXJvdyh7J3VybCc6IHVybCwgJ3JhbmsnOiBzZWxmLnVybF9kaWNbdXJsXSwgJ2xpbmtfcmVscyc6IHJlbHN9KQo=</text>
+      <register name="9" type="4">
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
