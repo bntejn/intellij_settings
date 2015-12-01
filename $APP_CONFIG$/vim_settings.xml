@@ -74,7 +74,7 @@
         <mark key="^" line="97" column="57" />
         <mark key="." line="97" column="57" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/alexa_crawler/organizer.py" timestamp="1448940728645">
+      <file name="$USER_HOME$/PycharmProjects/alexa_crawler/organizer.py" timestamp="1448940751641">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
@@ -125,6 +125,12 @@
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/csci5271-git/alexa_crawler/organizer.py" timestamp="1448941598486">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/chatParser.py" timestamp="1432885383554">
         <mark key="[" line="2" column="26" />
@@ -306,10 +312,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>out</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>out</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>prefetch</text>
@@ -318,31 +324,31 @@
         <text encoding="base64">ZGVmIGFsZXhhX3RvcChtaW4sIG1heCk6CiAgICBjc3ZmID0gb3BlbigndG9wLTFtLmNzdicsICdyJykKICAgIHJlYWRlciA9IGNzdi5yZWFkZXIoY3N2ZiwgZGVsaW1pdGVyPScsJykKICAgIGkgPSAxCiAgICB3bGlzdCA9IFtdICAjIHdlYnNpdGUgbGlzdAogICAgZm9yIHJvdyBpbiByZWFkZXI6CiAgICAgICAgaWYgaSA+IG1heDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBlbGlmIGkgPCBtaW46CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgd2xpc3QuYXBwZW5kKCdodHRwOi8vJyArIHJvd1sxXSkKICAgICAgICBpICs9IDEKICAgIGNzdmYuY2xvc2UoKQogICAgcmV0dXJuIHdsaXN0WyhtaW4gLSAxKTpdCg==</text>
       </register>
       <register name="1" type="4">
-        <text>out</text>
+        <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>min, max</text>
+        <text>w</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3bGlzdFsobWluIC0gMSk6XQo=</text>
+      <register name="3" type="4">
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>alexa_top</text>
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnbmV4dCcgaW4gc3RyKHJvd1sxXSk6CiAgICAgICAgICAgIHdsaXN0LmFwcGVuZChyb3dbMF0pCg==</text>
+      <register name="5" type="4">
+        <text>writer</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLl9fY29udGFpbnNfXygpCg==</text>
+        <text encoding="base64">ICAgIHdyaXRlciA9IGNzdi53cml0ZXIodXJsZikK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3bGlzdC5hcHBlbmQoJ2h0dHA6Ly8nICsgcm93WzFdKQogICAgICAgIGkgKz0gMQo=</text>
+      <register name="7" type="4">
+        <text>)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGkgPCBtaW46CiAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICB1cmxmLndyaQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID4gbWF4OgogICAgICAgICAgICBicmVhawo=</text>
+      <register name="9" type="4">
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
