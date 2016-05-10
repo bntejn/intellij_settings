@@ -62,11 +62,11 @@
         <mark key="." line="36" column="22" />
         <mark key="[" line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/git/tensorflow/ex_learn_multiple.py" timestamp="1462853512325">
-        <mark key="]" line="1" column="66" />
-        <mark key="^" line="1" column="66" />
-        <mark key="." line="1" column="66" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/git/tensorflow/ex_learn_multiple.py" timestamp="1462855542725">
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="[" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1440779661794">
         <mark key="'" line="215" column="8" />
@@ -334,46 +334,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">Zml0dGluZyA=</text>
       </register>
       <register name="/" type="4">
         <text>prefetch</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">Zml0dGluZyA=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dHJhaW5lZCA=</text>
+        <text encoding="base64">c2VlIA==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyBJIGNhbiB0cmFpbiBtdWx0aXBsZSB2YXJpYW50cwo=</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text encoding="base64">Zml0dGluZyA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyX2EgPSB0Zi5WYXJpYWJsZSh0Zi5yYW5kb21fdW5pZm9ybShbMV0pKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>Y</text>
+        <text>3</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">IC0yLjc5NSwgLTIuNTgsIDQuMjQ1</text>
+      </register>
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlc3MucnVuKFcpKQo=</text>
-      </register>
       <register name="4" type="4">
-        <text>5</text>
+        <text>, 0.1, 0.2, 2.3</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>y_data</text>
+        <text>, 10</text>
       </register>
       <register name="8" type="4">
-        <text>X</text>
+        <text>, 67</text>
       </register>
     </registers>
     <search>
