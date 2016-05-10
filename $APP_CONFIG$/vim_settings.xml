@@ -62,11 +62,11 @@
         <mark key="." line="36" column="22" />
         <mark key="[" line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/git/tensorflow/ex_learn_multiple.py" timestamp="1462849784393">
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/git/tensorflow/ex_learn_multiple.py" timestamp="1462853512325">
+        <mark key="]" line="1" column="66" />
+        <mark key="^" line="1" column="66" />
+        <mark key="." line="1" column="66" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1440779661794">
         <mark key="'" line="215" column="8" />
@@ -333,47 +333,47 @@
       <jump line="8" column="38" filename="$USER_HOME$/PycharmProjects/alexa_crawler/out.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ClcgPSB0Zi5WYXJpYWJsZSh0Zi5yYW5kb21fdW5pZm9ybShbMV0sIC0xMC4wLCAxMC4wKSkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>prefetch</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text encoding="base64">dHJhaW5lZCA=</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ClcgPSB0Zi5WYXJpYWJsZSh0Zi5yYW5kb21fdW5pZm9ybShbMV0sIC0xMC4wLCAxMC4wKSkK</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyX2EgPSB0Zi5WYXJpYWJsZSh0Zi5yYW5kb21fdW5pZm9ybShbMV0pKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>Variable</text>
+        <text>Y</text>
       </register>
       <register name="6" type="4">
-        <text>placeholder</text>
+        <text>,</text>
       </register>
-      <register name="5" type="4">
-        <text>tf.float32</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNlc3MucnVuKFcpKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmFyX2IgPSB0Zi5WYXJpYWJsZSh0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyKSkKdmFyX2MgPSB0Zi5WYXJpYWJsZSh0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyKSkK</text>
+      <register name="4" type="4">
+        <text>5</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>Variable</text>
+        <text>y_data</text>
       </register>
       <register name="8" type="4">
-        <text>Variable</text>
+        <text>X</text>
       </register>
     </registers>
     <search>
