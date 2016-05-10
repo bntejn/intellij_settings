@@ -1,6 +1,6 @@
 <scheme name="Darcula copy" version="141" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -50,7 +50,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="cfdff2" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="1d1d1d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
