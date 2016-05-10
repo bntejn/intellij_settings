@@ -69,6 +69,12 @@
         <mark key="." line="242" column="8" />
         <mark key="[" line="136" column="0" />
       </file>
+      <file name="$USER_HOME$/git/tensorflow/lab4.py" timestamp="1462846654904">
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="[" line="28" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/incomeok/plotly.py" timestamp="1446514965571">
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
@@ -112,6 +118,7 @@
       <file name="/fragment.py" timestamp="1446485315027">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/tensorflow/python/training/optimizer.py" timestamp="1462846641398" />
       <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1462843803018">
         <mark key="'" line="93" column="8" />
         <mark key="]" line="9" column="25" />
@@ -119,12 +126,20 @@
         <mark key="." line="9" column="25" />
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/crawler/scraper-old.py" timestamp="1448745370868">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/tensorflow/ex_simple_calc.py" timestamp="1462847935461">
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+        <mark key="[" line="7" column="48" />
       </file>
-      <file name="/a.dummy" timestamp="1448912295178">
+      <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/tensorflow/python/ops/array_ops.py" timestamp="1462846122732" />
+      <file name="$USER_HOME$/git/tensorflow/ex050916.py" timestamp="1462847304162">
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="48" />
+        <mark key="." line="22" column="39" />
+        <mark key="[" line="22" column="39" />
+      </file>
+      <file name="/a.dummy" timestamp="1462847736056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/csci5271-git/alexa_crawler/organizer.py" timestamp="1448941598486">
@@ -204,7 +219,8 @@
         <mark key="." line="105" column="12" />
         <mark key="[" line="105" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1448746757901">
+      <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/tensorflow/python/training/gradient_descent.py" timestamp="1462846364178" />
+      <file name="/Python Console" timestamp="1462844872145">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -312,46 +328,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>prefetch</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>7</text>
       </register>
       <register name="3" type="4">
-        <text>Group</text>
+        <text>3</text>
       </register>
       <register name="2" type="4">
-        <text>Group</text>
+        <text>5</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGFsZXhhX3RvcChtaW4sIG1heCk6CiAgICBjc3ZmID0gb3BlbigndG9wLTFtLmNzdicsICdyJykKICAgIHJlYWRlciA9IGNzdi5yZWFkZXIoY3N2ZiwgZGVsaW1pdGVyPScsJykKICAgIGkgPSAxCiAgICB3bGlzdCA9IFtdICAjIHdlYnNpdGUgbGlzdAogICAgZm9yIHJvdyBpbiByZWFkZXI6CiAgICAgICAgaWYgaSA+IG1heDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBlbGlmIGkgPCBtaW46CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgd2xpc3QuYXBwZW5kKCdodHRwOi8vJyArIHJvd1sxXSkKICAgICAgICBpICs9IDEKICAgIGNzdmYuY2xvc2UoKQogICAgcmV0dXJuIHdsaXN0WyhtaW4gLSAxKTpdCg==</text>
+        <text encoding="base64">cHJpbnQoc2Vzcy5ydW4odmFyX3ksIGZlZWRfZGljdD17dmFyX3g6IDF9KSkK</text>
       </register>
       <register name="7" type="4">
-        <text>Group</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">R3JvdXAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNlc3MucnVuKHZhcl95LCBmZWVkX2RpY3Q9e3Zhcl94OiAxfSkpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>Category</text>
+        <text>5</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmCgo=</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
     </registers>
     <search>
