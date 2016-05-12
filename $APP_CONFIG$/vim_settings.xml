@@ -81,11 +81,12 @@
         <mark key="." line="2" column="19" />
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/git/tensorflow/lab4.py" timestamp="1462846654904">
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-        <mark key="[" line="28" column="13" />
+      <file name="$USER_HOME$/git/tensorflow/lab4.py" timestamp="1463076594821">
+        <mark key="'" line="20" column="30" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="29" column="47" />
+        <mark key="[" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/alexa_crawler/scrapy_spider.py" timestamp="1448940287385">
         <mark key="]" line="19" column="28" />
@@ -228,10 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="4" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
-      <jump line="279" column="0" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
-      <jump line="0" column="26" filename="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" />
-      <jump line="29" column="23" filename="$USER_HOME$/PycharmProjects/kakaopy/ChatParser.py" />
       <jump line="19" column="44" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="13" column="2" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
       <jump line="193" column="18" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
@@ -328,55 +325,59 @@
       <jump line="34" column="12" filename="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" />
       <jump line="35" column="12" filename="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" />
       <jump line="8" column="38" filename="$USER_HOME$/PycharmProjects/alexa_crawler/out.csv" />
+      <jump line="5" column="25" filename="$USER_HOME$/git/tensorflow/lab4.py" />
+      <jump line="10" column="58" filename="$USER_HOME$/git/tensorflow/lab4.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/git/tensorflow/lab4.py" />
+      <jump line="20" column="30" filename="$USER_HOME$/git/tensorflow/lab4.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zml0dGluZyA=</text>
+        <text>, sess.run(b)</text>
       </register>
       <register name="/" type="4">
-        <text>prefetch</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml0dGluZyA=</text>
+        <text>, sess.run(b)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">c2VlIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBJIGNhbiB0cmFpbiBtdWx0aXBsZSB2YXJpYW50cwo=</text>
+        <text encoding="base64">YiA9IHRmLlZhcmlhYmxlKHRmLnJhbmRvbV91bmlmb3JtKFsxXSkpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Zml0dGluZyA=</text>
+        <text>, sess.run(b)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyX2EgPSB0Zi5WYXJpYWJsZSh0Zi5yYW5kb21fdW5pZm9ybShbMV0pKQo=</text>
+        <text encoding="base64">VyA9IHRmLlZhcmlhYmxlKHRmLnJhbmRvbV91bmlmb3JtKFsxLCAyXSwgLTEwLjAsIDEwLjApKSAjIDEgYnkgMiBhcnJheQo=</text>
       </register>
       <register name="7" type="4">
-        <text>3</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IC0yLjc5NSwgLTIuNTgsIDQuMjQ1</text>
+        <text>b</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>, 0.1, 0.2, 2.3</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>, 10</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>, 67</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
     </registers>
     <search>
-      <last-search>prefetch</last-search>
+      <last-search>b</last-search>
       <last-offset />
-      <last-pattern>prefetch</last-pattern>
+      <last-pattern>b</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
       <last-dir>1</last-dir>
@@ -384,7 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>commit</entry>
         <entry>Added</entry>
         <entry>reader</entry>
         <entry encoding="base64">XDxyZXBvcnRzXD4=</entry>
@@ -404,11 +404,9 @@
         <entry encoding="base64">XDxERk9STUFUXD4=</entry>
         <entry>sort</entry>
         <entry>prefetch</entry>
+        <entry>b</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/self/node/gc</entry>
-        <entry>%s/self/node/c</entry>
-        <entry>220</entry>
         <entry>230</entry>
         <entry>100</entry>
         <entry>277</entry>
@@ -425,6 +423,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>1</entry>
         <entry>o organizer.py</entry>
+        <entry encoding="base64">JzwsJz4y</entry>
+        <entry>2</entry>
+        <entry>7</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
