@@ -81,7 +81,7 @@
         <mark key="." line="3" column="9" />
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/git/pyflakes/pyflakes/api.py" timestamp="1463112647444" />
+      <file name="$USER_HOME$/git/pyflakes/pyflakes/api.py" timestamp="1463113903604" />
       <file name="$USER_HOME$/PycharmProjects/incomeok/plotly.py" timestamp="1446514965571">
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
@@ -167,6 +167,7 @@
         <mark key="." line="0" column="30" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/pyflakes/pyflakes/checker.py" timestamp="1463115376305" />
       <file name="/" timestamp="1433836638748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,6 +237,7 @@
       <file name="/Python Console" timestamp="1462844872145">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/pyflakes/pyflakes/reporter.py" timestamp="1463113595781" />
     </filemarks>
     <jumps>
       <jump line="19" column="44" filename="$USER_HOME$/PycharmProjects/pybst/pybst.py" />
