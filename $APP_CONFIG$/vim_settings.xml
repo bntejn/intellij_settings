@@ -197,18 +197,17 @@
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465608724080">
-        <mark key="]" line="23" column="13" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="[" line="22" column="74" />
+      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465609578294">
+        <mark key="]" line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+        <mark key="[" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465608513266">
-        <mark key="'" line="63" column="23" />
-        <mark key="]" line="63" column="24" />
-        <mark key="^" line="63" column="24" />
-        <mark key="." line="63" column="24" />
-        <mark key="[" line="63" column="24" />
+      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465609692900">
+        <mark key="'" line="52" column="23" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="[" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
         <mark key="]" line="4" column="27" />
@@ -350,47 +349,47 @@
       <jump line="63" column="23" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lname</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2VsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>lname</text>
+        <text>=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c2VsZi5jYXJkcywg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQogICAgICAgICAgICBzZWxmLl9saXN0X2NhcmRzKGxpc3RfaWQ9c2VsKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bG5hbWUg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbGlzdF9jYXJkcyhzZWxmLmFyZ3NbMF0pCiAgICAgICAgICAgIHNlbCA9IGludChpbnB1dCgnPiAnKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>lname</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQo=</text>
       </register>
-      <register name="0" type="4">
-        <text>'{}{:2d}:{} {:16s}'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9saXN0X29wZW5fbGlzdHMoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>m</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpICUgbl9wZXJfbGluZSA9PSAwOgogICAgICAgICAgICBwcmludCgnJykK</text>
       </register>
-      <register name="4" type="4">
-        <text>_</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQogICAgICAgICAgICBzZWxmLl9saXN0X2NhcmRzKGxpc3RfaWQ9c2VsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgY2FyZCBpbiBlbnVtZXJhdGUoc2VsZi5jYXJkcyk6CiAgICAgICAgICAgIGlmIGkgPT0gMzoKICAgICAgICAgICAgICAgIHByaW50KCcnKQogICAgICAgICAgICBwcmludCgne317OjJkfTp7fSB7OjI2c30nLgogICAgICAgICAgICAgICAgICBmb3JtYXQodXRpbHMuQ29sb3JzLkJPTEQsIGksIHV0aWxzLkNvbG9ycy5FTkRDLCBjYXJkLm5hbWUpLAogICAgICAgICAgICAgICAgICBlbmQ9JycpCiAgICAgICAgcHJpbnQoJycpCg==</text>
+      <register name="9" type="4">
+        <text>=</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
