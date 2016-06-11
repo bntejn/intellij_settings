@@ -114,6 +114,7 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/trello/trelloclient.py" timestamp="1465618262454" />
       <file name="$USER_HOME$/git/tensorflow/ex.txt" timestamp="1463168259540">
         <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
@@ -203,12 +204,12 @@
         <mark key="." line="27" column="36" />
         <mark key="[" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465618031607">
-        <mark key="'" line="55" column="23" />
-        <mark key="]" line="73" column="17" />
-        <mark key="^" line="73" column="17" />
-        <mark key="." line="73" column="17" />
-        <mark key="[" line="83" column="18" />
+      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465620015435">
+        <mark key="'" line="97" column="34" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="59" column="37" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
         <mark key="]" line="4" column="27" />
@@ -240,6 +241,7 @@
         <mark key="." line="2" column="10" />
         <mark key="[" line="2" column="6" />
       </file>
+      <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/trello/board.py" timestamp="1465618377016" />
       <file name="$USER_HOME$/git/py-trello-cli/config.py" timestamp="1465617360534">
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -247,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="22" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
       <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
       <jump line="22" column="16" filename="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" />
       <jump line="32" column="25" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
@@ -347,49 +348,50 @@
       <jump line="4" column="16" filename="$USER_HOME$/git/py-trello-cli/py-trello-cli.py" />
       <jump line="64" column="26" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
       <jump line="63" column="23" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
+      <jump line="91" column="34" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhcmRzID0gbHN0Lmxpc3RfY2FyZHMoKQo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2VsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">dXNlcl9pbnB1dCA=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y3VycmVudCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">c2VsZWN0aW9uIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcHJpbnRfY2FyZHMoc2VsZi5hcmdzWzBdKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhcmRzID0gbHN0Lmxpc3RfY2FyZHMoKQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pbnB1dCA9IGlucHV0KCI+ICIpLnNwbGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpc3RzID0gY29uZmlnLmJvYXJkLm9wZW5fbGlzdHMoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50Cg==</text>
+      <register name="7" type="4">
+        <text>size</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c2VsIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZ2V0X29wZW5fbGlzdHMoKQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">dXNlcl9pbnB1dCA=</text>
       </register>
       <register name="4" type="4">
-        <text>current = 'list'</text>
+        <text encoding="base64">bAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh1c2VyX2lucHV0WzBdLCBpbnQpOgogICAgICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLmJvYXJkLm9wZW5fbGlzdHMoKQo=</text>
       </register>
     </registers>
     <search>
