@@ -64,11 +64,11 @@
       <file name="/a.dummy" timestamp="1465601161085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/pytrello.py" timestamp="1465605471378">
-        <mark key="]" line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-        <mark key="[" line="22" column="63" />
+      <file name="$USER_HOME$/git/py-trello-cli/pytrello.py" timestamp="1465617760694">
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="16" />
+        <mark key="[" line="22" column="16" />
       </file>
       <file name="/" timestamp="1433836638748">
         <mark key="[" line="0" column="0" />
@@ -197,17 +197,18 @@
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465609578294">
-        <mark key="]" line="22" column="49" />
-        <mark key="^" line="22" column="49" />
-        <mark key="." line="22" column="49" />
-        <mark key="[" line="22" column="30" />
+      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465617693911">
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="[" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465609692900">
-        <mark key="'" line="52" column="23" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="[" line="76" column="0" />
+      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465618031607">
+        <mark key="'" line="55" column="23" />
+        <mark key="]" line="73" column="17" />
+        <mark key="^" line="73" column="17" />
+        <mark key="." line="73" column="17" />
+        <mark key="[" line="83" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
         <mark key="]" line="4" column="27" />
@@ -239,11 +240,10 @@
         <mark key="." line="2" column="10" />
         <mark key="[" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/config.py" timestamp="1465605779754">
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-        <mark key="[" line="3" column="16" />
+      <file name="$USER_HOME$/git/py-trello-cli/config.py" timestamp="1465617360534">
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -349,47 +349,47 @@
       <jump line="63" column="23" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2VsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQogICAgICAgICAgICBzZWxmLl9saXN0X2NhcmRzKGxpc3RfaWQ9c2VsKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y3VycmVudCA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbGlzdF9jYXJkcyhzZWxmLmFyZ3NbMF0pCiAgICAgICAgICAgIHNlbCA9IGludChpbnB1dCgnPiAnKSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">c2VsZWN0aW9uIA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQo=</text>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pbnB1dCA9IGlucHV0KCI+ICIpLnNwbGl0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9saXN0X29wZW5fbGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">c2VsIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpICUgbl9wZXJfbGluZSA9PSAwOgogICAgICAgICAgICBwcmludCgnJykK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsID0gaW50KGlucHV0KCc+ICcpKQogICAgICAgICAgICBzZWxmLl9saXN0X2NhcmRzKGxpc3RfaWQ9c2VsKQo=</text>
+      <register name="4" type="4">
+        <text>current = 'list'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh1c2VyX2lucHV0WzBdLCBpbnQpOgogICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
     </registers>
     <search>
