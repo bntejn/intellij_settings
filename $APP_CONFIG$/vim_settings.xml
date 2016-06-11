@@ -64,11 +64,11 @@
       <file name="/a.dummy" timestamp="1465601161085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/pytrello.py" timestamp="1465617760694">
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="35" />
-        <mark key="." line="22" column="16" />
-        <mark key="[" line="22" column="16" />
+      <file name="$USER_HOME$/git/py-trello-cli/pytrello.py" timestamp="1465620735187">
+        <mark key="]" line="29" column="40" />
+        <mark key="^" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="[" line="29" column="38" />
       </file>
       <file name="/" timestamp="1433836638748">
         <mark key="[" line="0" column="0" />
@@ -204,12 +204,10 @@
         <mark key="." line="27" column="36" />
         <mark key="[" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465620015435">
-        <mark key="'" line="97" column="34" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="59" column="37" />
-        <mark key="." line="60" column="0" />
-        <mark key="[" line="60" column="0" />
+      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465621298853">
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
         <mark key="]" line="4" column="27" />
@@ -352,46 +350,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhcmRzID0gbHN0Lmxpc3RfY2FyZHMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2VsIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlcl9pbnB1dCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcHJpbnRfY2FyZHMoc2VsZi5hcmdzWzBdKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfaWRfZm9yX3NlbGVjdGlvbihzZWxmLCBpbmQ6IGludCkgLT4gc3RyOgogICAgICAgIGlmIHNlbGYubGFzdF9wcmludGVkID09ICdjYXJkcyc6CiAgICAgICAgICAgIGlmIHNlbGYuY2FyZHMgaXMgTm9uZSBvciBsZW4oc2VsZi5jYXJkcykgPT0gMDoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0ludmFsaWQgc2VsZWN0aW9uOiBjYXJkcyBhcmUgbm90IGxvYWRlZCcpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmNhcmRzW2luZF0uaWQKICAgICAgICBlbGlmIHNlbGYubGFzdF9wcmludGVkID09ICdsaXN0cyc6CiAgICAgICAgICAgIGlmIHNlbGYubGlzdHMgaXMgTm9uZSBvciBsZW4oc2VsZi5saXN0cykgPT0gMDoKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0ludmFsaWQgc2VsZWN0aW9uOiBsaXN0cyBhcmUgbm90IGxvYWRlZCcpCiAgICAgICAgICAgIHJldHVybiBzZWxmLmxpc3RzW2luZF0uaWQKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhcmRzID0gbHN0Lmxpc3RfY2FyZHMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpc3RzID0gY29uZmlnLmJvYXJkLm9wZW5fbGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5jYXJkcyBpcyBOb25lIG9yIGxlbihzZWxmLmNhcmRzKSA9PSAwOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignSW52YWxpZCBzZWxlY3Rpb246IGNhcmRzIGFyZSBub3QgbG9hZGVkJykKICAgICAgICAgICAgcmV0dXJuIHNlbGYuY2FyZHNbaW5kXS5pZAo=</text>
       </register>
       <register name="7" type="4">
-        <text>size</text>
+        <text>.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZ2V0X29wZW5fbGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgIENPTU1BTkRTID0gc3RhdGljZmllbGQoKQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">dXNlcl9pbnB1dCA=</text>
+        <text encoding="base64">fCA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bAo=</text>
+        <text encoding="base64">YXJjaGl2ZSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>'list | move | archive | exit'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLmJvYXJkLm9wZW5fbGlzdHMoKQo=</text>
+      <register name="8" type="4">
+        <text>self</text>
       </register>
     </registers>
     <search>
