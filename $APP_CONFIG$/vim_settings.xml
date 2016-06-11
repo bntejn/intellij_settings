@@ -15,6 +15,13 @@
         <mark key="." line="0" column="13" />
         <mark key="[" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/incomeok" timestamp="1450240350899">
+        <mark key="'" line="110" column="32" />
+        <mark key="]" line="117" column="20" />
+        <mark key="^" line="117" column="20" />
+        <mark key="." line="117" column="20" />
+        <mark key="[" line="117" column="19" />
+      </file>
       <file name="$USER_HOME$/git/geeknote/setup.py" timestamp="1465587673632" />
       <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bst.py" timestamp="1441066270353">
         <mark key="]" line="36" column="22" />
@@ -27,6 +34,13 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
         <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pybst/pybst.py" timestamp="1440779661794">
+        <mark key="'" line="215" column="8" />
+        <mark key="]" line="138" column="26" />
+        <mark key="^" line="242" column="8" />
+        <mark key="." line="242" column="8" />
+        <mark key="[" line="136" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/incomeok/plotly.py" timestamp="1446514965571">
         <mark key="]" line="2" column="19" />
@@ -94,6 +108,13 @@
         <mark key="." line="97" column="57" />
         <mark key="[" line="97" column="55" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist.py" timestamp="1445359257371">
+        <mark key="'" line="70" column="4" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="[" line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/kakaopy/datetime_exercise" timestamp="1441066183305">
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
@@ -106,6 +127,13 @@
         <mark key="." line="32" column="18" />
         <mark key="[" line="32" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" timestamp="1441068820326">
+        <mark key="'" line="48" column="16" />
+        <mark key="]" line="105" column="12" />
+        <mark key="^" line="105" column="12" />
+        <mark key="." line="105" column="12" />
+        <mark key="[" line="105" column="13" />
+      </file>
       <file name="/Python Console" timestamp="1462844872145">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,11 +143,25 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/trello/trelloclient.py" timestamp="1465618262454" />
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/KakaoMessage.py" timestamp="1433835233862">
+        <mark key="'" line="0" column="26" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/git/tensorflow/ex.txt" timestamp="1463168259540">
         <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" timestamp="1440980393669">
+        <mark key="'" line="28" column="42" />
+        <mark key="]" line="69" column="56" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="[" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/git/py-trello-cli/trello-client.py" timestamp="1465599737409">
         <mark key="]" line="18" column="26" />
@@ -145,6 +187,20 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy_spider.py" timestamp="1448872653639">
+        <mark key="'" line="39" column="12" />
+        <mark key="]" line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="[" line="38" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" timestamp="1445320953597">
+        <mark key="'" line="73" column="15" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/tensorflow/lab5.py" timestamp="1463427524323">
         <mark key="]" line="48" column="19" />
         <mark key="^" line="48" column="19" />
@@ -152,6 +208,13 @@
         <mark key="[" line="48" column="19" />
       </file>
       <file name="/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/trello/trellolist.py" timestamp="1465601581405" />
+      <file name="$USER_HOME$/git/tensorflow/lab4.py" timestamp="1463076594821">
+        <mark key="'" line="20" column="30" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="29" column="47" />
+        <mark key="[" line="29" column="47" />
+      </file>
       <file name="$USER_HOME$/git/py-trello-cli/trelloclient.py" timestamp="1465600833582">
         <mark key="]" line="17" column="16" />
         <mark key="^" line="2" column="0" />
@@ -179,6 +242,13 @@
         <mark key="." line="72" column="31" />
         <mark key="[" line="72" column="30" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/incomeok/plot.py" timestamp="1462843803018">
+        <mark key="'" line="93" column="8" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="[" line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/git/geeknote/geeknote/geeknote.py" timestamp="1465588922925" />
       <file name="$USER_HOME$/Documents/csci5271-git/alexa_crawler/organizer.py" timestamp="1448941598486">
         <mark key="]" line="21" column="26" />
@@ -198,17 +268,18 @@
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465617693911">
-        <mark key="]" line="27" column="36" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="[" line="27" column="7" />
+      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465622977755">
+        <mark key="]" line="20" column="75" />
+        <mark key="^" line="20" column="75" />
+        <mark key="." line="20" column="75" />
+        <mark key="[" line="20" column="71" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465622313764">
-        <mark key="'" line="93" column="15" />
-        <mark key="]" line="93" column="15" />
-        <mark key="." line="93" column="15" />
-        <mark key="[" line="93" column="15" />
+      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465623517432">
+        <mark key="'" line="116" column="40" />
+        <mark key="]" line="138" column="63" />
+        <mark key="^" line="138" column="63" />
+        <mark key="." line="138" column="63" />
+        <mark key="[" line="138" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
         <mark key="]" line="4" column="27" />
@@ -248,9 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="11" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
-      <jump line="29" column="15" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
-      <jump line="74" column="32" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="76" column="45" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="107" column="45" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
       <jump line="8" column="15" filename="$USER_HOME$/PycharmProjects/mytodoist/todoist-python/mytodoist" />
@@ -348,65 +416,65 @@
       <jump line="87" column="60" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
       <jump line="62" column="4" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
       <jump line="93" column="15" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
+      <jump line="116" column="40" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2VsZi5jYXJkcyBpcyBub3QgTm9uZSBhbmQg</text>
+        <text encoding="base64">dmFsaWQg</text>
       </register>
       <register name="/" type="4">
-        <text>assert</text>
+        <text>Moved card</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZi5jYXJkcyBpcyBub3QgTm9uZSBhbmQg</text>
+        <text encoding="base64">dmFsaWQg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFt0cmVsbG8uTGlzdF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFt0cmVsbG8uQ2FyZF0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">c2VsZi5jYXJkcyBpcyBub3QgTm9uZSBhbmQg</text>
+        <text encoding="base64">dmFsaWQg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignUGxlYXNlIHNlbGVjdCBhIG5vdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignUGxlYXNlIHNlbGVjdCBhIHZhbGlkIG5vdGUnKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>self</text>
+        <text>q</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>Q</text>
       </register>
       <register name="5" type="4">
-        <text>self</text>
+        <text>2</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5ID0gdHJlbGxvX3F1ZXJ5LlF1ZXJ5Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">QXJjaGl2ZSA=</text>
       </register>
     </registers>
     <search>
-      <last-search>assert</last-search>
+      <last-search>Moved card</last-search>
       <last-offset />
-      <last-pattern>assert</last-pattern>
-      <last-replace>root.put</last-replace>
-      <last-substitute>root.insert</last-substitute>
+      <last-pattern>Moved card</last-pattern>
+      <last-replace>Query.lists</last-replace>
+      <last-substitute>self.lists</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ALL_CATEGORY</entry>
-        <entry encoding="base64">XDxkcm9wX2NhdGVnb3J5XD4=</entry>
-        <entry encoding="base64">XDxCdWNrZXRcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJfZXhwZW5zZVw+</entry>
         <entry encoding="base64">XDxhbGxfY2F0ZWdvcnlcPg==</entry>
         <entry encoding="base64">XDx0b2xpc3RcPg==</entry>
@@ -424,10 +492,11 @@
         <entry>assert is not</entry>
         <entry>assert not</entry>
         <entry>assert</entry>
+        <entry>self.cards</entry>
+        <entry>self.lists</entry>
+        <entry>Moved card</entry>
       </history-search>
       <history-cmd>
-        <entry>999</entry>
-        <entry>99</entry>
         <entry>105</entry>
         <entry>!pip3.4 install scrapy</entry>
         <entry>o organizer.py</entry>
@@ -445,6 +514,8 @@
         <entry>27</entry>
         <entry>3</entry>
         <entry>88</entry>
+        <entry>%s/self.cards/Query.cards</entry>
+        <entry>%s/self.lists/Query.lists</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
