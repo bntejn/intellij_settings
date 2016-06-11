@@ -197,17 +197,18 @@
         <mark key="." line="2" column="9" />
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465605397218">
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="[" line="2" column="6" />
+      <file name="$USER_HOME$/git/py-trello-cli/utils.py" timestamp="1465608724080">
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="[" line="22" column="74" />
       </file>
-      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465606693389">
-        <mark key="]" line="51" column="37" />
-        <mark key="^" line="51" column="37" />
-        <mark key="." line="51" column="37" />
-        <mark key="[" line="51" column="37" />
+      <file name="$USER_HOME$/git/py-trello-cli/trello_query.py" timestamp="1465608513266">
+        <mark key="'" line="63" column="23" />
+        <mark key="]" line="63" column="24" />
+        <mark key="^" line="63" column="24" />
+        <mark key="." line="63" column="24" />
+        <mark key="[" line="63" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/web_scraper/scrapy.py" timestamp="1448747017904">
         <mark key="]" line="4" column="27" />
@@ -247,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="12" filename="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" />
-      <jump line="234" column="11" filename="$USER_HOME$/PycharmProjects/kakaopy/pybst.py" />
       <jump line="13" column="22" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
       <jump line="28" column="42" filename="$USER_HOME$/PycharmProjects/kakaopy/test_bstNode.py" />
       <jump line="22" column="16" filename="$USER_HOME$/PycharmProjects/kakaopy/KakaoPy.py" />
@@ -347,64 +346,64 @@
       <jump line="51" column="0" filename="$USER_HOME$/git/py-trello-cli/cli.py" />
       <jump line="54" column="0" filename="$USER_HOME$/git/py-trello-cli/cli.py" />
       <jump line="4" column="16" filename="$USER_HOME$/git/py-trello-cli/py-trello-cli.py" />
+      <jump line="64" column="26" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
+      <jump line="63" column="23" filename="$USER_HOME$/git/py-trello-cli/trello_query.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>lname</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmdzc3BsaXRcPg==</text>
+        <text encoding="base64">c2VsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>lname</text>
       </register>
       <register name="3" type="4">
-        <text>=</text>
+        <text encoding="base64">c2VsZi5jYXJkcywg</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text encoding="base64">bG5hbWUg</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>lname</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGlzdHMubmFtZSkK</text>
+      <register name="0" type="4">
+        <text>'{}{:2d}:{} {:16s}'</text>
       </register>
       <register name="7" type="4">
-        <text>=</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>m</text>
       </register>
       <register name="4" type="4">
-        <text>+</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgY2FyZCBpbiBlbnVtZXJhdGUoc2VsZi5jYXJkcyk6CiAgICAgICAgICAgIGlmIGkgPT0gMzoKICAgICAgICAgICAgICAgIHByaW50KCcnKQogICAgICAgICAgICBwcmludCgne317OjJkfTp7fSB7OjI2c30nLgogICAgICAgICAgICAgICAgICBmb3JtYXQodXRpbHMuQ29sb3JzLkJPTEQsIGksIHV0aWxzLkNvbG9ycy5FTkRDLCBjYXJkLm5hbWUpLAogICAgICAgICAgICAgICAgICBlbmQ9JycpCiAgICAgICAgcHJpbnQoJycpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>i</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmdzc3BsaXRcPg==</last-search>
+      <last-search encoding="base64">c2VsIA==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmdzc3BsaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">c2VsIA==</last-pattern>
       <last-replace>root.put</last-replace>
       <last-substitute>root.insert</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBvcnRzXD4=</entry>
-        <entry encoding="base64">XDxtaW5kYXRlXD4=</entry>
         <entry>Bucket</entry>
         <entry>print</entry>
         <entry>append</entry>
@@ -423,9 +422,10 @@
         <entry>b</entry>
         <entry>root.insert</entry>
         <entry encoding="base64">XDxhcmdzc3BsaXRcPg==</entry>
+        <entry>sel</entry>
+        <entry encoding="base64">c2VsIA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4x</entry>
         <entry>999</entry>
         <entry>99</entry>
         <entry>105</entry>
@@ -444,6 +444,7 @@
         <entry>2</entry>
         <entry>27</entry>
         <entry>3</entry>
+        <entry>88</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
